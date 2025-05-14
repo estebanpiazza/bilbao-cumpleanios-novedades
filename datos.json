@@ -1,0 +1,4657 @@
+{
+  "cumpleaños": [
+    {
+        "nombre": "Ambros,Abigail Janelle",
+        "fecha": "2014-12-25",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Amigo,Juan Simón",
+        "fecha": "2014-07-20",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Blanco,Macarena",
+        "fecha": "2015-03-17",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Bolotnikoff ,Tomás ",
+        "fecha": "2015-01-22",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Bringas,Santino",
+        "fecha": "2014-12-18",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Carballo,Victoria Paula",
+        "fecha": "2015-04-12",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Collia,Ámbar",
+        "fecha": "2014-11-13",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Díaz Guerra,Matilda Pilar",
+        "fecha": "2015-03-14",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Dobry Macias ,Elena ",
+        "fecha": "2014-11-12",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Frurland Otero,Laura",
+        "fecha": "2014-07-11",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Ginesta Velázquez,Victoria Laura",
+        "fecha": "2015-06-18",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Jorge,Guadalupe Sofía",
+        "fecha": "2014-09-04",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Manzione,Valentina Sofía ",
+        "fecha": "2014-12-06",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Martinez Alonso,Mía Luz",
+        "fecha": "2014-08-25",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Massarani,Tatiana Sofía",
+        "fecha": "2014-12-05",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Monserrat ,Sofía",
+        "fecha": "2015-02-20",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Nardini,Agustina",
+        "fecha": "2015-06-01",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Pereyro,Lautaro ",
+        "fecha": "2014-08-17",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Piñeiro ,Vicente ",
+        "fecha": "2015-02-23",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Pomato,Joaquín Tahiel",
+        "fecha": "2014-07-14",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Porta,Eva",
+        "fecha": "2015-05-08",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Prestera,Clara",
+        "fecha": "2014-08-12",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Rojas Losardo,Benicio",
+        "fecha": "2014-12-17",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Roveda,Santino",
+        "fecha": "2014-08-06",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Scovotti ,Tiziana Mara",
+        "fecha": "2014-08-08",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Suárez Seisdedos,Benjamín Emanuel",
+        "fecha": "2014-09-27",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Tobares,Emanuel",
+        "fecha": "2015-04-15",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Tomassino ,Manuela",
+        "fecha": "2014-07-31",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Vega Blasco,Agustina",
+        "fecha": "2015-01-22",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Viscardi Frasso,María del Pilar",
+        "fecha": "2014-10-01",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Arcidiacono ,Nina",
+        "fecha": "2015-03-30",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Blanco,Bautista Martín",
+        "fecha": "2014-09-15",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Bono,Juliana",
+        "fecha": "2014-08-13",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Bruno,Agostina Isabella",
+        "fecha": "2015-01-19",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Chae,Lina",
+        "fecha": "2014-10-24",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Chiappuzzo ,Amparo",
+        "fecha": "2014-09-30",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Chun,Sofia Emma",
+        "fecha": "2015-05-20",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Contrera,Isabel",
+        "fecha": "2015-02-05",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Curvelo Ceravolo,Valentina ",
+        "fecha": "2014-09-02",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Dalinger,Greta",
+        "fecha": "2014-08-20",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Damiani,Loenzo",
+        "fecha": "2014-11-02",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Di Costanzo,Catalina",
+        "fecha": "2015-01-03",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Díaz Guerra,Nicolás Ignacio",
+        "fecha": "2015-03-14",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Fabrizio Tenutta,Mateo",
+        "fecha": "2015-03-12",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Flores Canevaro,Matías",
+        "fecha": "2014-10-15",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Gallo,Sofía ",
+        "fecha": "2014-07-08",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Gil Moretti,Martina Morena",
+        "fecha": "2015-02-20",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Giorgi Pate,Emilia ",
+        "fecha": "2015-04-28",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Introzzi ,Amelia ",
+        "fecha": "2015-03-27",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Jara Oliveira ,Micaela ",
+        "fecha": "2015-02-11",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Longo Cabrera,Blas Valentino",
+        "fecha": "2015-05-09",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Macia Matos ,Emilia ",
+        "fecha": "2015-05-14",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Marchesini,Catalina",
+        "fecha": "2014-10-07",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Medina Lopez,Renata",
+        "fecha": "2015-02-26",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Páez Villagra ,Lourdes",
+        "fecha": "2014-09-11",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Papa Orfano,Joaquín",
+        "fecha": "2014-09-12",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Segui ,Simón Andrés",
+        "fecha": "2014-12-02",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Simonelli,Lorenzo ",
+        "fecha": "2015-02-24",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Thompson,Alex",
+        "fecha": "2015-04-20",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Torres Tassara,Valentino",
+        "fecha": "2014-12-03",
+        "tipo": "alumno",
+        "egreso": "2032"
+    },
+    {
+        "nombre": "Ginesta Velázquez ,Franco benicio",
+        "fecha": "2012-08-10",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Giorgi Pate,Isabella",
+        "fecha": "2012-08-03",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Hair Poccia,Bruno",
+        "fecha": "2013-05-16",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Panza Leonardi ,Matias Uriel",
+        "fecha": "2013-05-02",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Ale,Renata Trinidad",
+        "fecha": "2014-04-09",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Barra,Tiziano",
+        "fecha": "2013-11-05",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Baek Kim ,Zoe Abril",
+        "fecha": "2014-04-27",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Bernardoni,Julieta",
+        "fecha": "2013-09-03",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Capitelli,Santino",
+        "fecha": "2014-05-07",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Chiarenza,Sofia",
+        "fecha": "2013-10-10",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Del Médico Peirano,Catalina",
+        "fecha": "2014-03-31",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Diez Farre,Francisca",
+        "fecha": "2014-03-01",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Elgadban ,Tomás Gabriel",
+        "fecha": "2013-07-15",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Figueroa,Joaquín",
+        "fecha": "2013-07-19",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Font Casiraghi,Santino Alejandro",
+        "fecha": "2014-01-09",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "García Acosta ,Sofía Lara ",
+        "fecha": "2014-02-19",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "González ,Franco Lorenzo",
+        "fecha": "2013-09-05",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Juárez,Josefina",
+        "fecha": "2014-02-22",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Kalmar,Camila",
+        "fecha": "2014-01-20",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Kim,Daniel Chemin",
+        "fecha": "2013-07-25",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Medina,Ignacio Facundo",
+        "fecha": "2013-11-20",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Molluso,Julia",
+        "fecha": "2013-09-08",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Morelli Szajewicz,Thiago",
+        "fecha": "2013-07-09",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Mota Rodriguez,Ian Ayrton",
+        "fecha": "2014-01-13",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Narbon,Benjamín",
+        "fecha": "2014-02-04",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Pei,Daina Ailin ",
+        "fecha": "2014-04-25",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Peláez,Sol Agustina",
+        "fecha": "2024-03-04",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Rafel,Olivia",
+        "fecha": "2013-09-29",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Tamborini Louge,Victoria ",
+        "fecha": "2013-07-22",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Tessandori ,Thiago ",
+        "fecha": "2013-07-29",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Toth,Agustin",
+        "fecha": "2013-10-27",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Vardé,Mateo",
+        "fecha": "2013-07-10",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Veliz Massonnat,Isabella Eva",
+        "fecha": "2014-06-17",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Almirón Safdie,Joaquín",
+        "fecha": "2013-10-28",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Buscaya,Emma Sofia",
+        "fecha": "2013-11-18",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Cabrera Benito,Juan Ignacio ",
+        "fecha": "2014-06-02",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Carrizo,Pedro",
+        "fecha": "2014-05-31",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Chagaray Morinigo ,Lautaro Gael",
+        "fecha": "2014-01-21",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Chung,Yura Mía",
+        "fecha": "2014-06-17",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Colaiacovo ,Santino Roberto ",
+        "fecha": "2016-07-23",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Damonte,Alma Belén",
+        "fecha": "2014-04-28",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Escotorin ,Micaela ",
+        "fecha": "2014-01-04",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Folgar ,Julieta ",
+        "fecha": "2014-02-24",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Galdín,Timoteo",
+        "fecha": "2013-07-31",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "González Broggi,León",
+        "fecha": "2014-02-07",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Grisoni Serpe,Ignacio ",
+        "fecha": "2023-10-04",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Larrosa Mendes,Julia",
+        "fecha": "2014-06-10",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Lauzzana,Lucía",
+        "fecha": "2013-10-09",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Maccaroni ,Valentino",
+        "fecha": "2013-12-18",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Manrique,Julieta",
+        "fecha": "2014-05-20",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Marcolini,Lorenzo ",
+        "fecha": "2014-03-30",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Muia,Ramiro Martín",
+        "fecha": "2014-01-21",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Nunes Pareja,Guillermina",
+        "fecha": "2014-06-05",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Pandelo,Ignacio",
+        "fecha": "2013-11-23",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Paz,Joaquín ",
+        "fecha": "2013-11-20",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Rybin,Maxim",
+        "fecha": "2013-10-17",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Sama ,Emilia Delfina",
+        "fecha": "2013-07-21",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Saumench,Pedro",
+        "fecha": "2014-04-18",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Scovotti Cafisi,Lucas",
+        "fecha": "2014-06-28",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Simón Rua,Noah",
+        "fecha": "2014-03-26",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Solano Germaná,Romeo",
+        "fecha": "2013-08-31",
+        "tipo": "alumno",
+        "egreso": "2031"
+    },
+    {
+        "nombre": "Álvarez,Agustín ",
+        "fecha": "2013-06-17",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Blanco,Francisco",
+        "fecha": "2013-05-23",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Cacciabue,Lola",
+        "fecha": "2012-11-23",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Carames ,Jeremías ",
+        "fecha": "2013-01-05",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Carles Moledo,Felipe Agustín",
+        "fecha": "2012-09-05",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Dambroski,Agustín Mariano",
+        "fecha": "2013-03-07",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Di Maggio,Martina",
+        "fecha": "2012-10-03",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Díaz ,Sofía ",
+        "fecha": "2012-08-29",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Eom,Ryan Seonwoo",
+        "fecha": "2012-10-03",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Fenoglio,Tomás",
+        "fecha": "2012-09-18",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Hernández ,Joaquina ",
+        "fecha": "2013-04-13",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Keller,Sofía",
+        "fecha": "2012-07-23",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Keuyluian,Martina",
+        "fecha": "2013-04-17",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Massera,Marcos luciano ",
+        "fecha": "2013-05-23",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Parra,Ciro Inti ",
+        "fecha": "2013-06-04",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Paz,Isabella",
+        "fecha": "2012-12-19",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Pellin Fernández ,Emma",
+        "fecha": "2012-11-24",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Pérez Benzacar,Alexandré Gustave",
+        "fecha": "2013-01-12",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Perez Marti,Luisina",
+        "fecha": "2012-08-09",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Piccinati,Cayetano",
+        "fecha": "2012-12-21",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Ro,Megan",
+        "fecha": "2013-04-22",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Salusky,Lorenzo ",
+        "fecha": "2012-11-16",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Tacconi ,Ian Franco ",
+        "fecha": "2013-05-10",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Verón ,Máximo Segundo",
+        "fecha": "2012-10-01",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Zampella,Benjamin ",
+        "fecha": "2012-11-23",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Aguiar Pacheco,Fiorella",
+        "fecha": "2013-03-27",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Antonino,Abril",
+        "fecha": "2013-04-25",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Bertolino Castro,Marcos",
+        "fecha": "2012-08-26",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Bugallo,Dante ",
+        "fecha": "2013-03-24",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Cabaleiro ,Tomás",
+        "fecha": "2024-01-28",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Carballo,Alexia Máxima",
+        "fecha": "2013-01-29",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Casa,Bautista",
+        "fecha": "2012-09-18",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Chen,Frank Ticiano",
+        "fecha": "2012-09-09",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Chimenella,Cristobal",
+        "fecha": "2012-08-16",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Colonna Paiva,Isabella Cecilia Miranda",
+        "fecha": "2012-11-23",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Contrera,Juana",
+        "fecha": "2013-04-19",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Corbo,Santiago",
+        "fecha": "2012-07-17",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "D'Agostino ,Bautista",
+        "fecha": "2013-06-04",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Esteve,Santiago Martin",
+        "fecha": "2012-11-22",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Fiamingo Monden,Jazmín",
+        "fecha": "2012-09-13",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Frutos,Joaquín Ariel",
+        "fecha": "2012-11-24",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Galvan D’Elia,Emilio",
+        "fecha": "2012-08-30",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Haag,Catalina",
+        "fecha": "2013-06-20",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Ko,Lisa Celeste",
+        "fecha": "2012-10-05",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Koutsovitis ,Emilia ",
+        "fecha": "2012-07-14",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Lupinucci,Lara",
+        "fecha": "2012-08-20",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Matvejczuk ,Briana Paula",
+        "fecha": "2012-10-30",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Moreno Politis ,Pilar ",
+        "fecha": "2013-02-26",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Natoli,Luciano Nicolas",
+        "fecha": "2013-04-22",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Navarro ,Agustín ",
+        "fecha": "2013-05-26",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Pellotta,Julieta",
+        "fecha": "2012-07-10",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Pocrnjic,Pedro",
+        "fecha": "2013-04-09",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Rodríguez Antico,Isabella Sofía",
+        "fecha": "2012-09-17",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Sbriz Fiore,Mora",
+        "fecha": "2013-05-10",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+    {
+        "nombre": "Yang,Santiago Tobías",
+        "fecha": "2013-05-29",
+        "tipo": "alumno",
+        "egreso": "2030"
+    },
+      {
+          "nombre": "María Victoria Ares",
+          "fecha": "2010-11-14",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Nina Arnaldo Dabrescia",
+          "fecha": "2010-07-29",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Valentina Mía Beratz",
+          "fecha": "2011-03-14",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Bautista Berea",
+          "fecha": "2010-09-07",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Iara Bikkesbakker DAbramo",
+          "fecha": "2010-07-20",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Carla milagros Bustamante",
+          "fecha": "2010-11-17",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Milagros Lucía Canet Bouzas",
+          "fecha": "2010-12-06",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Jazmin Lucia Cina",
+          "fecha": "2010-08-14",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Francisca Delmonte",
+          "fecha": "2011-03-10",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Selena Mailen Desse",
+          "fecha": "2011-02-03",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Sofia Di Gregorio",
+          "fecha": "2011-04-26",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Isabella Dib",
+          "fecha": "2011-02-16",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Emilia Yeonwoo Eom",
+          "fecha": "2010-10-26",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Teo Esperon",
+          "fecha": "2011-05-15",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Felipe Gabriel Esteve",
+          "fecha": "2010-09-16",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Pilar Ferreira dos Santos",
+          "fecha": "2011-05-23",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Maximo Joaquin Ferreyra Grieben",
+          "fecha": "2010-12-20",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Emilia Figueroa",
+          "fecha": "2011-04-21",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Regina Florio",
+          "fecha": "2011-04-04",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Sofía Valeria Fonseca Richaudeau",
+          "fecha": "2010-10-01",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Ignacio Joaquín Gallego",
+          "fecha": "2010-09-30",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Tomás Joaquín Gallo",
+          "fecha": "2010-10-01",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Sofia Glinni",
+          "fecha": "2010-08-27",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Santiago Haffar",
+          "fecha": "2010-09-08",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Nicole Jee",
+          "fecha": "2010-05-05",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Sofia Kalmar",
+          "fecha": "2011-03-17",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Martin Keller",
+          "fecha": "2010-11-19",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Chloe Ju Eun Kim",
+          "fecha": "2011-02-23",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Benicio Koutsovitis",
+          "fecha": "2010-12-17",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Helena Larrache",
+          "fecha": "2010-12-13",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Adrian Lee",
+          "fecha": "2010-07-30",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Maia Makarchuk",
+          "fecha": "2011-04-04",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Mateo Gael Marcos",
+          "fecha": "2010-07-22",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Matias Martino Francois",
+          "fecha": "2010-10-05",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Julia Matamoros",
+          "fecha": "2011-04-30",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Sara Nur Mera",
+          "fecha": "2010-09-16",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Facundo Minsteras",
+          "fecha": "2010-11-17",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Oriana Abi Mota",
+          "fecha": "2011-05-02",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Facundo Nieto Rodriguez",
+          "fecha": "2011-01-13",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Julieta Nieto Rodriguez",
+          "fecha": "2011-01-13",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Juana Nunes Pareja",
+          "fecha": "2010-10-08",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Franco Parodi",
+          "fecha": "2011-03-08",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Camila Peralta",
+          "fecha": "2010-09-16",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Facundo Pucci",
+          "fecha": "2010-09-03",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Felicitas Riera",
+          "fecha": "2010-12-05",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Benjamin Ross",
+          "fecha": "2011-04-29",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Bautista Lucca Rossi",
+          "fecha": "2010-09-20",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Catalina Rufrano",
+          "fecha": "2010-12-14",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Vicente Ruggiero",
+          "fecha": "2011-06-15",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Lucio Russo",
+          "fecha": "2010-07-29",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Sofia Julieta Scarano",
+          "fecha": "2011-06-02",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Tomas Silva",
+          "fecha": "2011-02-22",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Facundo Nahuel Trapani",
+          "fecha": "2010-07-13",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Candela Jazmin Urquiza",
+          "fecha": "2011-04-02",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Isabella Avril Vecchio",
+          "fecha": "2011-04-03",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Delfina Renata Veron",
+          "fecha": "2011-06-15",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Paula Zarate",
+          "fecha": "2011-03-19",
+          "tipo": "alumno",
+          "egreso": "2028"
+      },
+      {
+          "nombre": "Sofia Elena Alliegro Alea",
+          "fecha": "2009-11-11",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Sol Anigstein",
+          "fecha": "2010-03-04",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Felipe Arcidiacono",
+          "fecha": "2009-10-01",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Aaron Gabriel Baek Kim",
+          "fecha": "2010-04-30",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Aylin Ban",
+          "fecha": "2010-04-30",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Julieta Bertolino Castro",
+          "fecha": "2009-08-03",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Agustina Abril Buscaya",
+          "fecha": "2010-01-17",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Ivo Bustamante Ledesma",
+          "fecha": "2010-05-31",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Alma Micaela Buttafuoco",
+          "fecha": "2010-04-02",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Aaron Alejandro Caldentey",
+          "fecha": "2009-12-22",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Martin Adriel Caro",
+          "fecha": "2009-08-14",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Pilar Antonella Catuogno",
+          "fecha": "2010-01-02",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Tommy Chen",
+          "fecha": "2009-08-11",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Viviana Sara Chen",
+          "fecha": "2010-02-20",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Zoe Amelia Choi",
+          "fecha": "2009-10-06",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Pedro Corbo",
+          "fecha": "2010-06-04",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Fabrizio De Carlo",
+          "fecha": "2009-08-22",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Marcos Escotorin",
+          "fecha": "2009-10-10",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Lara Agustina Etchevarne",
+          "fecha": "20/072009",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Francesca Fabrizio Tenutta",
+          "fecha": "2010-01-13",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Agustin Ezequiel Farias",
+          "fecha": "2010-06-13",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Bautista Farré",
+          "fecha": "2009-10-15",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Julieta Gallo",
+          "fecha": "2010-02-01",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Valentina Gianelli",
+          "fecha": "2010-03-20",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Martina Gonzalez Broggi",
+          "fecha": "2009-10-09",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Martina Grosso",
+          "fecha": "2009-11-23",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Rafael JunHyun Jo",
+          "fecha": "2010-05-20",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Benjamin Jodar",
+          "fecha": "2009-12-11",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Arian Agustin Kim",
+          "fecha": "2009-11-14",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Maximo Kim",
+          "fecha": "2009-11-29",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Lloyd Martin Kim",
+          "fecha": "2010-01-29",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Danel Jonathan Kim",
+          "fecha": "2006-01-20",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Jazmín Aylen Liu",
+          "fecha": "2010-02-13",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Valeria Luo Contreras",
+          "fecha": "2010-01-28",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Catalina Lourdes Martin",
+          "fecha": "2009-09-09",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Calendaria Violeta Martinez Guelfo",
+          "fecha": "2009-11-29",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Bautista Moreno Politis",
+          "fecha": "2010-01-12",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Lucía Magalí Music",
+          "fecha": "2009-08-05",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Catalina Orsini",
+          "fecha": "2010-06-29",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Estefano Park",
+          "fecha": "2009-07-17",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Camila Pereyra Lee",
+          "fecha": "2010-06-01",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Delfina Poggio Suarez",
+          "fecha": "2009-12-28",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Tomás Agustin Prieto",
+          "fecha": "2022-09-21",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Azul Hada Rempel Ponce",
+          "fecha": "2010-02-06",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Gonzalo Tomás Risso",
+          "fecha": "2010-03-14",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Camilo Rodriguez Vannoni",
+          "fecha": "2010-02-04",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Carolina Sacchi",
+          "fecha": "2009-07-15",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Agustin Scovotti Cafisi",
+          "fecha": "2009-07-16",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Olivia Struminger",
+          "fecha": "2010-05-20",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Agustin Luciano Van Lacke",
+          "fecha": "2009-11-04",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Valentina Velasquez",
+          "fecha": "2010-03-16",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Fausto Villafan",
+          "fecha": "2010-02-23",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Valentina Vita",
+          "fecha": "2009-09-02",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Denis Yoo",
+          "fecha": "2009-08-18",
+          "tipo": "alumno",
+          "egreso": "2027"
+      },
+      {
+          "nombre": "Agustina Blanco",
+          "fecha": "2009-06-18",
+          "tipo": "alumno",
+          "egreso": "2026"
+      },
+      {
+          "nombre": "Julieta Bruno",
+          "fecha": "2009-04-05",
+          "tipo": "alumno",
+          "egreso": "2026"
+      },
+      {
+          "nombre": "Bricio Bustamante Ledesma",
+          "fecha": "2008-11-14",
+          "tipo": "alumno",
+          "egreso": "2026"
+      },
+      {
+          "nombre": "Lola Cadente",
+          "fecha": "2009-03-04",
+          "tipo": "alumno",
+          "egreso": "2026"
+      },
+      {
+          "nombre": "Julia Chimenella",
+          "fecha": "2009-03-10",
+          "tipo": "alumno",
+          "egreso": "2026"
+      },
+
+      {
+          "nombre": "Isabela Corti Dubovitsky",
+          "fecha": "2009-03-16",
+          "tipo": "alumno",
+          "egreso": "2026"
+      },
+      {
+          "nombre": "Lara Dursi",
+          "fecha": "2008-09-28",
+          "tipo": "alumno",
+          "egreso": "2026"
+      },
+      {
+          "nombre": "Camila Ferrero",
+          "fecha": "2008-11-25",
+          "tipo": "alumno",
+          "egreso": "2026"
+      },
+      {
+          "nombre": "Facundo Folgar",
+          "fecha": "2009-01-08",
+          "tipo": "alumno",
+          "egreso": "2026"
+      },
+      {
+          "nombre": "Juan Ignacio Fránciga",
+          "fecha": "2008-09-12",
+          "tipo": "alumno",
+          "egreso": "2026"
+      },
+      {
+          "nombre": "Hannah Belén Hwang",
+          "fecha": "2008-08-22",
+          "tipo": "alumno",
+          "egreso": "2026"
+      },
+      {
+          "nombre": "Victoria Hye In Jo",
+          "fecha": "2009-03-16",
+          "tipo": "alumno",
+          "egreso": "2026"
+      },
+      {
+          "nombre": "Leticia Jovanovich",
+          "fecha": "2009-02-12",
+          "tipo": "alumno",
+          "egreso": "2026"
+      },
+      {
+          "nombre": "Constanza Kent",
+          "fecha": "2008-08-07",
+          "tipo": "alumno",
+          "egreso": "2026"
+      },
+      {
+          "nombre": "Antonella Kim",
+          "fecha": "2009-01-30",
+          "tipo": "alumno",
+          "egreso": "2026"
+      },
+      {
+          "nombre": "Lara Cecilia Kim",
+          "fecha": "2009-05-08",
+          "tipo": "alumno",
+          "egreso": "2026"
+      },
+      {
+          "nombre": "Anais Lee",
+          "fecha": "2008-12-13",
+          "tipo": "alumno",
+          "egreso": "2026"
+      },
+      {
+          "nombre": "Lucia Lee",
+          "fecha": "2008-12-26",
+          "tipo": "alumno",
+          "egreso": "2026"
+      },
+      {
+          "nombre": "Martina Lopez",
+          "fecha": "0/12/2009",
+          "tipo": "alumno",
+          "egreso": "2026"
+      },
+      {
+          "nombre": "Dolores Martinez Cohen",
+          "fecha": "2008-12-22",
+          "tipo": "alumno",
+          "egreso": "2026"
+      },
+      {
+          "nombre": "Sofía Milanese",
+          "fecha": "2008-10-05",
+          "tipo": "alumno",
+          "egreso": "2026"
+      },
+      {
+          "nombre": "Valentino Millán",
+          "fecha": "2008-11-27",
+          "tipo": "alumno",
+          "egreso": "2026"
+      },
+      {
+          "nombre": "Lola Ochoa Hidalgo",
+          "fecha": "2009-02-12",
+          "tipo": "alumno",
+          "egreso": "2026"
+      },
+      {
+          "nombre": "Abril Aylén Panza Leonardi",
+          "fecha": "2008-12-09",
+          "tipo": "alumno",
+          "egreso": "2026"
+      },
+      {
+          "nombre": "Carola Parodi",
+          "fecha": "2009-01-13",
+          "tipo": "alumno",
+          "egreso": "2026"
+      },
+      {
+          "nombre": "Lucas Damián Perez Tamburro",
+          "fecha": "2008-12-19",
+          "tipo": "alumno",
+          "egreso": "2026"
+      },
+      {
+          "nombre": "Tiziana Plabnik",
+          "fecha": "2008-08-21",
+          "tipo": "alumno",
+          "egreso": "2026"
+      },
+      {
+          "nombre": "Lola Ramirez",
+          "fecha": "2009-01-19",
+          "tipo": "alumno",
+          "egreso": "2026"
+      },
+      {
+          "nombre": "Mateo Sampayo",
+          "fecha": "2008-12-22",
+          "tipo": "alumno",
+          "egreso": "2026"
+      },
+      {
+          "nombre": "Augusto Serpa",
+          "fecha": "2009-06-15",
+          "tipo": "alumno",
+          "egreso": "2026"
+      },
+      {
+          "nombre": "Aaron Yoon",
+          "fecha": "2008-11-28",
+          "tipo": "alumno",
+          "egreso": "2026"
+      },
+      {
+          "nombre": "Matías Bernardez",
+          "fecha": "2008-02-04",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Matías Catelli",
+          "fecha": "2008-06-04",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Gino Celentano",
+          "fecha": "2007-11-05",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Ayelen Cho",
+          "fecha": "2007-11-05",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Aaron Sebastian Cho",
+          "fecha": "2007-10-26",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Vladimir Wallace Culver",
+          "fecha": "2008-06-20",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Zoe Pilar Delor Alaminio",
+          "fecha": "2007-10-29",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Lola Di Iorio",
+          "fecha": "2008-02-28",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Rosario Ferreira Dos Santos",
+          "fecha": "2007-11-28",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Alejandro Fonseca Richaud",
+          "fecha": "2008-06-13",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Juan Francisco Florio",
+          "fecha": "2007-12-17",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Gina Victoria Fránciga",
+          "fecha": "2008-07-08",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Lucio Virgilio Fullin",
+          "fecha": "2008-02-08",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Agustin Gimenez Marquez",
+          "fecha": "2008-03-31",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Gala Gonzalez Broggi",
+          "fecha": "2007-09-27",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Tiffany Ericka Hong",
+          "fecha": "2007-07-11",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Santiago Khatcherian",
+          "fecha": "2008-02-02",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Erina Kim",
+          "fecha": "2007-07-01",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Nahuel Kim",
+          "fecha": "2008-03-26",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Priscila Koo",
+          "fecha": "2008-04-03",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Mora Libia Magistris Erman",
+          "fecha": "2007-12-14",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Lucas Minsteras",
+          "fecha": "2007-10-10",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "María Molfesa Vinaccia",
+          "fecha": "2007-11-04",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Ornella Nasilosky",
+          "fecha": "2007-07-05",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Evangelina Oh",
+          "fecha": "2008-03-10",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Joaquin Orsini",
+          "fecha": "2008-01-11",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Juliana Ponce",
+          "fecha": "2007-10-23",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Valerie Mia Prato Fernandez",
+          "fecha": "2008-02-26",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Kiara Prieto",
+          "fecha": "2007-09-05",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Dylan Ignacio Ra",
+          "fecha": "2007-11-02",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Zoe Magalí Retamozo",
+          "fecha": "2008-05-26",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Bautista Rodea",
+          "fecha": "2008-04-05",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Ambar Martina Rojas De Vincentiis",
+          "fecha": "2008-03-04",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Juan Agustin Romeo Cuppari",
+          "fecha": "2008-03-04",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Evangelina Ruggiero",
+          "fecha": "2008-06-25",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Catarina Russo",
+          "fecha": "2008-01-31",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Giuliano Carlo Signorello Moffa",
+          "fecha": "2007-09-14",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Tomas Tessandori",
+          "fecha": "2007-10-14",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Guadalupe Catalina Zakim",
+          "fecha": "2008-03-21",
+          "tipo": "alumno",
+          "egreso": "2025"
+      },
+      {
+          "nombre": "Lucas Ariel Anigstein",
+          "fecha": "2007-05-29",
+          "tipo": "alumno",
+          "egreso": "2024"
+      },
+      {
+          "nombre": "Federico Luis Arana",
+          "fecha": "2007-01-03",
+          "tipo": "alumno",
+          "egreso": "2024"
+      },
+      {
+          "nombre": "Paula Mariel Artigas",
+          "fecha": "2006-09-01",
+          "tipo": "alumno",
+          "egreso": "2024"
+      },
+      {
+          "nombre": "Franco Barbieri Canelas",
+          "fecha": "2006-07-12",
+          "tipo": "alumno",
+          "egreso": "2024"
+      },
+      {
+          "nombre": "Juan Cruz Bertolino",
+          "fecha": "2007-01-30",
+          "tipo": "alumno",
+          "egreso": "2024"
+      },
+      {
+          "nombre": "Galo Bustamante Ledesma",
+          "fecha": "2007-02-12",
+          "tipo": "alumno",
+          "egreso": "2024"
+      },
+      {
+          "nombre": "Amparo Cabanas",
+          "fecha": "2007-06-07",
+          "tipo": "alumno",
+          "egreso": "2024"
+      },
+      {
+          "nombre": "Josefina Corti Dubovitsky",
+          "fecha": "2006-07-26",
+          "tipo": "alumno",
+          "egreso": "2024"
+      },
+      {
+          "nombre": "Mateo Cuenca",
+          "fecha": "2007-04-04",
+          "tipo": "alumno",
+          "egreso": "2024"
+      },
+      {
+          "nombre": "Agustina Yael Cravetz",
+          "fecha": "2006-10-23",
+          "tipo": "alumno",
+          "egreso": "2024"
+      },
+      {
+          "nombre": "Máximo Culver",
+          "fecha": "2006-09-20",
+          "tipo": "alumno",
+          "egreso": "2024"
+      },
+      {
+          "nombre": "Santino Daldini",
+          "fecha": "2007-02-11",
+          "tipo": "alumno",
+          "egreso": "2024"
+      },
+      {
+          "nombre": "Guadalupe De Petra",
+          "fecha": "2006-11-14",
+          "tipo": "alumno",
+          "egreso": "2024"
+      },
+      {
+          "nombre": "Franco Delizia",
+          "fecha": "2006-11-14",
+          "tipo": "alumno",
+          "egreso": "2024"
+      },
+      {
+          "nombre": "Lucas Fernandez Gervasi",
+          "fecha": "2007-02-20",
+          "tipo": "alumno",
+          "egreso": "2024"
+      },
+      {
+          "nombre": "Manuela Ferraro Guidiño",
+          "fecha": "2006-10-27",
+          "tipo": "alumno",
+          "egreso": "2024"
+      },
+      {
+          "nombre": "Olivia Gallego",
+          "fecha": "2007-03-02",
+          "tipo": "alumno",
+          "egreso": "2024"
+      },
+      {
+          "nombre": "Milena Haffar",
+          "fecha": "2007-02-16",
+          "tipo": "alumno",
+          "egreso": "2024"
+      },
+      {
+          "nombre": "Geronimo Han",
+          "fecha": "2006-12-27",
+          "tipo": "alumno",
+          "egreso": "2024"
+      },
+      {
+          "nombre": "Emily Jasmin Kim",
+          "fecha": "2006-01-20",
+          "tipo": "alumno",
+          "egreso": "2024"
+      },
+      {
+          "nombre": "Lourdes Larralde Campos",
+          "fecha": "2006-12-22",
+          "tipo": "alumno",
+          "egreso": "2024"
+      },
+      {
+          "nombre": "Aylin Maira Lee",
+          "fecha": "2007-05-27",
+          "tipo": "alumno",
+          "egreso": "2024"
+      },
+      {
+          "nombre": "Santino Lupinucci",
+          "fecha": "2006-11-17",
+          "tipo": "alumno",
+          "egreso": "2024"
+      },
+      {
+          "nombre": "Pilar Martinez Cohen",
+          "fecha": "2007-06-22",
+          "tipo": "alumno",
+          "egreso": "2024"
+      },
+      {
+          "nombre": "Constanza Martino Francois",
+          "fecha": "2006-08-02",
+          "tipo": "alumno",
+          "egreso": "2024"
+      },
+      {
+          "nombre": "Balthazar Mielniczuk",
+          "fecha": "2007-04-11",
+          "tipo": "alumno",
+          "egreso": "2024"
+      },
+      {
+          "nombre": "Juan Sebastian Morando Sarfati",
+          "fecha": "2007-03-09",
+          "tipo": "alumno",
+          "egreso": "2024"
+      },
+      {
+          "nombre": "Matías Moure",
+          "fecha": "2006-08-31",
+          "tipo": "alumno",
+          "egreso": "2024"
+      },
+      {
+          "nombre": "Leonel Park",
+          "fecha": "2007-05-17",
+          "tipo": "alumno",
+          "egreso": "2024"
+      },
+      {
+          "nombre": "Delfina Plabnik",
+          "fecha": "2006-09-08",
+          "tipo": "alumno",
+          "egreso": "2024"
+      },
+      {
+          "nombre": "Elias Yoon",
+          "fecha": "2007-03-14",
+          "tipo": "alumno",
+          "egreso": "2024"
+      },
+      {
+          "nombre": "Ozuna Micaela",
+          "fecha": "1996-10-16",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Leonardelli, Daiana Mariel",
+          "fecha": "1984-10-24",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Bidondo, Carolina",
+          "fecha": "1982-10-25",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Frega, Yamila Ines",
+          "fecha": "1987-10-27",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Rodriguez, Mariana",
+          "fecha": "1975-10-27",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Caggiano, Guido",
+          "fecha": "1992-10-27",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Zvirgzdins, Martina",
+          "fecha": "2000-10-30",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Carpinelli, Maria de los Angel",
+          "fecha": "1982-11-04",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Dattoli, Belen Soledad",
+          "fecha": "1989-11-05",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Vola, Camila",
+          "fecha": "1997-11-06",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Rodriguez, Irma Haydee",
+          "fecha": "1984-11-07",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Paz, Ivan Javier",
+          "fecha": "1984-11-08",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Nozieres, Marcela",
+          "fecha": "1977-11-10",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Munichan, Maria Jimena",
+          "fecha": "1987-11-14",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Damonte, Mariana",
+          "fecha": "1990-11-19",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Durango Muñeton, Sebastian",
+          "fecha": "1999-11-19",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Oviedo, Julieta Susana",
+          "fecha": "1985-11-20",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Garcia, Maria Sol",
+          "fecha": "1990-11-23",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Gomez, Cintia Mariana",
+          "fecha": "1985-11-24",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Romero, Natalia Priscila",
+          "fecha": "1988-11-25",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Hernandez, Sandra Cecilia",
+          "fecha": "1978-11-28",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Sanchez, Nicolas",
+          "fecha": "1993-11-30",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Vazquez, Facundo",
+          "fecha": "1992-12-07",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Perez, Claudia Carolina",
+          "fecha": "1974-12-10",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Sanguinetti, Juana",
+          "fecha": "2001-12-14",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Lojo, Ana",
+          "fecha": "1967-12-18",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Gazzotti, Aldana Jimena",
+          "fecha": "1986-12-19",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Sanchez, Fernando",
+          "fecha": "1986-12-20",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Pezzo, Jesica",
+          "fecha": "1989-12-21",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Pizzi, Paula",
+          "fecha": "1974-12-26",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Stover, Magdalena",
+          "fecha": "1989-12-30",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "MANZANAL, SOFIA",
+          "fecha": "1998-12-31",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Sories, Carlos Alberto",
+          "fecha": "1997-12-31",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Rosselli, Micaela Stefania",
+          "fecha": "1996-10-11",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Giraldez Florencia",
+          "fecha": "1985-10-06",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Carbone, Cynthia",
+          "fecha": "1975-10-03",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Guardia, Karina",
+          "fecha": "1900-09-29",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Granda, Natalia Marcela",
+          "fecha": "1979-09-28",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Lastra, Marisa",
+          "fecha": "1967-09-22",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Jooris, Lelouch Lais",
+          "fecha": "1992-09-19",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Garjon Daniel",
+          "fecha": "1962-09-19",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Etchevehere, Giselle",
+          "fecha": "1990-09-19",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Garrido Couto, Emanuel",
+          "fecha": "1998-09-17",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Paredes, Cesar",
+          "fecha": "1984-09-16",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Ventieri, Nicolas",
+          "fecha": "1988-09-14",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Martin, Monica Beatriz",
+          "fecha": "1964-09-13",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Ansalone, Daniela",
+          "fecha": "1993-09-12",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Rodriguez, Marcela Fernanda",
+          "fecha": "1968-09-09",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "VOLPE EVELYN SOL",
+          "fecha": "1992-09-07",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Nuñez, Daniela Paula",
+          "fecha": "1984-09-06",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Blamos, Nicolas Jorge",
+          "fecha": "1986-09-02",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Rodriguez Sol Ayelen",
+          "fecha": "1994-08-22",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "SULIANI CUELLAR, RUTH EDITH",
+          "fecha": "1988-08-21",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "CARUCCI CANDELA BELEN",
+          "fecha": "1993-08-19",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Azevedo Figueiredo, Bruna Anamir",
+          "fecha": "1998-08-18",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Valdez, Silvia Soledad",
+          "fecha": "1982-08-16",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Rodas, Silvia Liliana",
+          "fecha": "1969-08-13",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Ravazzano, Carolina",
+          "fecha": "1977-08-07",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Sanchez , Ariana Josefa",
+          "fecha": "2003-08-07",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Rodriguez, Mayra Gisele",
+          "fecha": "1988-08-01",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Bungur, Noelia Anabel",
+          "fecha": "1990-07-27",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Lemos, Santiago Emilio",
+          "fecha": "1981-07-22",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Oliveira Peña Sambra",
+          "fecha": "1999-07-15",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Spataro Videla Maria Paz",
+          "fecha": "2000-07-13",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Zamora Ailin",
+          "fecha": "1999-07-09",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Ferrero, Amilcar",
+          "fecha": "1993-07-07",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Oms, Juan Sebastian",
+          "fecha": "1975-07-06",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Pessino, Andrea Norma",
+          "fecha": "1968-07-03",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Ledesma Franco, Marciano",
+          "fecha": "1984-07-02",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Cherez, Carolina maria",
+          "fecha": "1989-06-29",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Cetani, Gabriela",
+          "fecha": "1973-06-23",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Garcia, Maria Belen",
+          "fecha": "1989-06-24",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Carolei, Julieta",
+          "fecha": "1980-06-21",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Avalos, Celeste",
+          "fecha": "1989-06-20",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Cabrera, Sabrina Soledad",
+          "fecha": "1982-06-20",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Kramer, Natalia Vanesa",
+          "fecha": "1981-06-19",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Sanjurjo, Marisol Ines",
+          "fecha": "1990-06-10",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Mansur Delia Vanesa",
+          "fecha": "1987-06-09",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Morrison, Anabel",
+          "fecha": "1973-06-06",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Mango, Deborah Elizabeth",
+          "fecha": "1988-06-05",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Lopreiato, Maria Alejandra",
+          "fecha": "1965-06-01",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "De la Parra , Natacha Sabrina",
+          "fecha": "1978-05-18",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Scoccia, Luciana Carla",
+          "fecha": "1983-05-18",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "ATTAR, JENNIFER",
+          "fecha": "1992-05-17",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Panozzo, Rocio",
+          "fecha": "2001-05-12",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Liporaci Fernandez Tomas",
+          "fecha": "1999-05-11",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Abascal, Maria Laura",
+          "fecha": "1988-05-10",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Flores Moreno, Natalia Selene",
+          "fecha": "1998-05-10",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Sgut, Laura Marina",
+          "fecha": "1988-04-27",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Galindo, Viviana Sol",
+          "fecha": "1979-04-26",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Clemencot, Angelica Beatriz",
+          "fecha": "1970-04-25",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Flores Gonzalez, Leonida",
+          "fecha": "1972-04-22",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Rienzi, Susana",
+          "fecha": "1962-04-22",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Ramirez; Camila",
+          "fecha": "2003-04-19",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Zaffaronni, Ignacio Nicolas",
+          "fecha": "1994-04-18",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Torres, Florencia Belen",
+          "fecha": "2001-04-10",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Mejica Mazza, María Laura",
+          "fecha": "1987-04-02",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Carrizo, Nadia Jorgelina",
+          "fecha": "1985-03-28",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Bruno, Vanina Gisela",
+          "fecha": "1983-03-23",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Flores Polo, Micaela",
+          "fecha": "1990-03-23",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Belluscio Jaime, Gala Estefani",
+          "fecha": "1994-03-21",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Castro, Ailén",
+          "fecha": "1999-03-18",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Sousa, Mariano",
+          "fecha": "1972-03-18",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Perez Eseiza, Florencia",
+          "fecha": "2000-03-17",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Peluso Brenda",
+          "fecha": "1991-03-17",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Di Paolo, Maria Camila",
+          "fecha": "1999-03-12",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Paez, Micaela",
+          "fecha": "1995-03-07",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Tripicchio, Matías",
+          "fecha": "1992-03-07",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Cielinski, Maria Florencia",
+          "fecha": "1992-03-06",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Ortiz, Paula Celeste",
+          "fecha": "1990-03-04",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Basgall, Claudia Leonilda",
+          "fecha": "1965-03-03",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Garjon, Maria Virginia",
+          "fecha": "1972-03-03",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Rodriguez Zalazar, María Luz",
+          "fecha": "1974-02-24",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Taboada Lara Camila",
+          "fecha": "2000-02-23",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Soriano Andrada, Ignacio Andre",
+          "fecha": "1994-02-22",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Rodriguez, Monica Patricia",
+          "fecha": "1970-02-15",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Marin Romero, Guillermina",
+          "fecha": "1982-02-14",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Fonseca, Maria Angelica",
+          "fecha": "1969-02-08",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Laval, Santiago Enrique",
+          "fecha": "1976-02-07",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Lazcano, Thiago",
+          "fecha": "1997-02-03",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Lanfranconi Daniela Sofia",
+          "fecha": "1993-02-03",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Gergely, Nazarena Denise",
+          "fecha": "1900-01-31",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Sanchez, María Florencia",
+          "fecha": "2000-01-29",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Piazza, Esteban",
+          "fecha": "1993-01-27",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Bermolen Olivelli, Florencia",
+          "fecha": "1994-01-26",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Cortiña, Natalia",
+          "fecha": "1985-01-25",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Alvarez Paiva, Wilma Aidee",
+          "fecha": "1986-01-24",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Garcia, Maria Eugenia",
+          "fecha": "1980-01-24",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Albornoz, Christian Martin",
+          "fecha": "1979-01-22",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Avatte, Maria Laura",
+          "fecha": "1979-01-22",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Barbalaco, Mariangeles",
+          "fecha": "1975-01-20",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Guerreño, Ernesto Daniel",
+          "fecha": "1971-01-18",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Renaud Espinoza, Paula Andrea",
+          "fecha": "1996-01-17",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Baldo, Miguel Jesus Rafael",
+          "fecha": "1985-01-09",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Fernandez, Rocio Marilina",
+          "fecha": "1982-01-08",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Peralta, Alejandra",
+          "fecha": "1986-01-08",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Esperon, Joaquina",
+          "fecha": "2004-02-22",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Paseyro, Guadalupe",
+          "fecha": "2001-01-19",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Villafañe, Monica Romina",
+          "fecha": "1982-02-10",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Tignanelli Tomas",
+          "fecha": "2004-03-19",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Aldax, Agustina",
+          "fecha": "2002-02-13",
+          "tipo": "profesor",
+          "egreso": ""
+      },
+      {
+          "nombre": "Paz, Gustavo",
+          "fecha": "1900-02-05",
+          "tipo": "profesor",
+          "egreso": ""
+      }
+  
+  ],
+  "novedades": [
+    { "nombre": "Reunión de padres", "fecha": "2024-10-21", "nivel": "Primaria" },
+    { "nombre": "Entrega de boletines", "fecha": "2024-10-22", "nivel": "Secundaria" }
+  ],
+  "preguntas_reflexion": [
+    {
+
+          "pregunta": "1. ¿Cuándo fue la última vez que hiciste algo nuevo?",
+          "fecha": "2025-01-01"
+         },
+         {
+          "pregunta": "2. ¿Con quién te comparas a veces?",
+          "fecha": "2025-01-02"
+         },
+         {
+          "pregunta": "3. ¿Qué es lo más sensato que has oído decir?",
+          "fecha": "2025-01-03"
+         },
+         {
+          "pregunta": "4. ¿Qué es lo que más te entusiasma?",
+          "fecha": "2025-01-04"
+         },
+         {
+          "pregunta": "5. ¿Qué lección has aprendido por las malas?",
+          "fecha": "2025-01-05"
+         },
+         {
+          "pregunta": "6. Desde la perspectiva de hoy, ¿en qué te hubiera gustado pasar más tiempo hace cinco años?",
+          "fecha": "2025-01-06"
+         },
+         {
+          "pregunta": "7. ¿Qué es lo que más aprecias de tu situación actual?",
+          "fecha": "2025-01-07"
+         },
+         {
+          "pregunta": "8. ¿A quién quieres y qué estás haciendo al respecto?",
+          "fecha": "2025-01-08"
+         },
+         {
+          "pregunta": "9. ¿Qué crees cierto, aunque muchas personas no estén de acuerdo?",
+          "fecha": "2025-01-09"
+         },
+         {
+          "pregunta": "10. ¿Qué puedes hacer hoy de lo que no eras capaz hace un año?",
+          "fecha": "2025-01-10"
+         },
+         {
+          "pregunta": "11. ¿De qué nunca tienes bastante?",
+          "fecha": "2025-01-11"
+         },
+         {
+          "pregunta": "12. ¿Qué harías diferente si supieras que nadie te juzga?",
+          "fecha": "2025-01-12"
+         },
+         {
+          "pregunta": "13. Celebra una de las cosas que tienes.",
+          "fecha": "2025-01-13"
+         },
+         {
+          "pregunta": "14. ¿Qué es lo que más te preocupa ahora?",
+          "fecha": "2025-01-14"
+         },
+         {
+          "pregunta": "15. ¿Qué te gustaría cambiar en tu entorno?",
+          "fecha": "2025-01-15"
+         },
+         {
+          "pregunta": "16. ¿Has hecho algo últimamente que vale la pena recordar?",
+          "fecha": "2025-01-16"
+         },
+         {
+          "pregunta": "17. ¿Qué aprendiste hoy?",
+          "fecha": "2025-01-17"
+         },
+         {
+          "pregunta": "18. ¿Qué es lo que más necesitas en este momento?",
+          "fecha": "2025-01-18"
+         },
+         {
+          "pregunta": "19. ¿De qué manera te hablas a ti mismo?",
+          "fecha": "2025-01-19"
+         },
+         {
+          "pregunta": "20. ¿Qué actividades te hacen perder la noción del tiempo?",
+          "fecha": "2025-01-20"
+         },
+         {
+          "pregunta": "21. Si tuvieras que enseñar algo, ¿qué enseñarías?",
+          "fecha": "2025-01-21"
+         },
+         {
+          "pregunta": "22. ¿Qué te arrepientes de no hacer plenamente?",
+          "fecha": "2025-01-22"
+         },
+         {
+          "pregunta": "23. ¿Te aferras a algo que necesitas dejar de lado?",
+          "fecha": "2025-01-23"
+         },
+         {
+          "pregunta": "24. ¿Cuál ha sido el mejor libro que has leído en el ultimo año?",
+          "fecha": "2025-01-24"
+         },
+         {
+          "pregunta": "25. ¿Qué te gustaría intentar?",
+          "fecha": "2025-01-25"
+         },
+         {
+          "pregunta": "26. ¿Qué edad tendrías si pudieras escoger?",
+          "fecha": "2025-01-26"
+         },
+         {
+          "pregunta": "27. ¿Qué hábito te gustaría desarrollar?",
+          "fecha": "2025-01-27"
+         },
+         {
+          "pregunta": "28. ¿Qué te hace sonreír?",
+          "fecha": "2025-01-28"
+         },
+         {
+          "pregunta": "29. Cuando todo está dicho y hecho, ¿has dicho más de lo que has hecho?",
+          "fecha": "2025-01-29"
+         },
+         {
+          "pregunta": "30. Si tuvieses la oportunidad de transmitir un mensaje a un grupo grande de personas,",
+          "fecha": "2025-01-30"
+         },
+         {
+          "pregunta": "¿Cuál sería tu mensaje?",
+          "fecha": "2025-01-31"
+         },
+         {
+          "pregunta": "31. ¿Qué te has sentido tentado a comprar últimamente?",
+          "fecha": "2025-02-01"
+         },
+         {
+          "pregunta": "32. ¿Qué te gusta tanto que no puedes dejar de hacerlo?",
+          "fecha": "2025-02-02"
+         },
+         {
+          "pregunta": "33. ¿Qué libro recomendarías a un amigo?",
+          "fecha": "2025-02-03"
+         },
+         {
+          "pregunta": "34. ¿Preferirías tener menos o más trabajo de aquel que realmente disfrutas hacer?",
+          "fecha": "2025-02-04"
+         },
+         {
+          "pregunta": "35. ¿Qué estas evitando?",
+          "fecha": "2025-02-05"
+         },
+         {
+          "pregunta": "36. ¿De qué buena noticia te has enterado en los últimos días?",
+          "fecha": "2025-02-06"
+         },
+         {
+          "pregunta": "37. ¿Qué te ha molestado de los demás recientemente?",
+          "fecha": "2025-02-07"
+         },
+         {
+          "pregunta": "38. ¿Qué es lo que sabes hacer de manera diferente que la mayoría de la gente?",
+          "fecha": "2025-02-08"
+         },
+         {
+          "pregunta": "39. ¿Qué dejaste para mañana?",
+          "fecha": "2025-02-09"
+         },
+         {
+          "pregunta": "40. ¿Cuál es el ultimo regalo que has recibido?",
+          "fecha": "2025-02-10"
+         },
+         {
+          "pregunta": "41. ¿Qué ha despertado tu curiosidad en esta semana?",
+          "fecha": "2025-02-11"
+         },
+         {
+          "pregunta": "42. ¿Cuál es el rasgo más deseable que otra persona puede poseer?",
+          "fecha": "2025-02-12"
+         },
+         {
+          "pregunta": "43. ¿Qué es lo que más agradeces?",
+          "fecha": "2025-02-13"
+         },
+         {
+          "pregunta": "44. ¿Sientes que has aprovechado bien las ultimas 24 horas?",
+          "fecha": "2025-02-14"
+         },
+         {
+          "pregunta": "45. ¿Qué es lo que más deseas?",
+          "fecha": "2025-02-15"
+         },
+         {
+          "pregunta": "46. ¿Cuál ha sido tu estado de animo dominante esta semana?",
+          "fecha": "2025-02-16"
+         },
+         {
+          "pregunta": "47. ¿Qué te han enseñado recientemente?",
+          "fecha": "2025-02-17"
+         },
+         {
+          "pregunta": "48. ¿Qué es lo que más te gustaría cambiar en el mundo?",
+          "fecha": "2025-02-18"
+         },
+         {
+          "pregunta": "49. ¿Dónde encuentras la inspiración?",
+          "fecha": "2025-02-19"
+         },
+         {
+          "pregunta": "50. ¿Cómo describes tu vida actual?",
+          "fecha": "2025-02-20"
+         },
+         {
+          "pregunta": "51. ¿Cuándo te equivocaste por última vez?",
+          "fecha": "2025-02-21"
+         },
+         {
+          "pregunta": "52. ¿Qué huella quieres dejar en el mundo?",
+          "fecha": "2025-02-22"
+         },
+         {
+          "pregunta": "53. ¿Qué le daría un giro a tu vida?",
+          "fecha": "2025-02-23"
+         },
+         {
+          "pregunta": "54. ¿Qué no estás viendo en la prisa de tu vida diaria?",
+          "fecha": "2025-02-24"
+         },
+         {
+          "pregunta": "55. ¿Qué cosas haces que no te gustan?",
+          "fecha": "2025-02-25"
+         },
+         {
+          "pregunta": "56. ¿Qué es lo que te levanta el ánimo?",
+          "fecha": "2025-02-26"
+         },
+         {
+          "pregunta": "57. ¿Qué lamentas no haber dicho o hecho últimamente?",
+          "fecha": "2025-02-27"
+         },
+         {
+          "pregunta": "58. ¿Cuál es tu mayor temor?",
+          "fecha": "2025-02-28"
+         },
+         {
+          "pregunta": "59. ¿Qué tres cosas positivas te han sucedido en el último mes?",
+          "fecha": "2025-03-01"
+         },
+         {
+          "pregunta": "60. ¿Cuál fue el mejor momento del año pasado?",
+          "fecha": "2025-03-02"
+         },
+         {
+          "pregunta": "61. ¿Qué aprendiste del último libro que leíste?",
+          "fecha": "2025-03-03"
+         },
+         {
+          "pregunta": "62. ¿Cuál fue el último regalo que te hiciste a ti mismo?",
+          "fecha": "2025-03-04"
+         },
+         {
+          "pregunta": "63. Si tuvieras la oportunidad de volver en el tiempo y cambiar algo de la última semana,¿qué cambiarías?",
+          "fecha": "2025-03-05"
+         },
+         {
+          "pregunta": "64. ¿Te has sentido triste últimamente? ¿Por qué?",
+          "fecha": "2025-03-06"
+         },
+         {
+          "pregunta": "65. ¿Tienes algún proyecto entre manos?",
+          "fecha": "2025-03-07"
+         },
+         {
+          "pregunta": "66. ¿Qué comida o bebida te ha tentado en los últimos días?",
+          "fecha": "2025-03-08"
+         },
+         {
+          "pregunta": "67. ¿Qué ha sido lo mejor de las últimas 24 horas?",
+          "fecha": "2025-03-09"
+         },
+         {
+          "pregunta": "68. ¿Cuál es la verdad más sencilla puedes expresar con palabras?",
+          "fecha": "2025-03-10"
+         },
+         {
+          "pregunta": "69. ¿Qué das por seguro?",
+          "fecha": "2025-03-11"
+         },
+         {
+          "pregunta": "70. ¿Qué debes evitar actualmente para mejorar tu vida?",
+          "fecha": "2025-03-12"
+         },
+         {
+          "pregunta": "71. ¿Qué es lo que te gustaría que otros recordaran de ti?",
+          "fecha": "2025-03-13"
+         },
+         {
+          "pregunta": "72. ¿Has estado llevando algún registro últimamente? ¿De qué?",
+          "fecha": "2025-03-14"
+         },
+         {
+          "pregunta": "73. ¿En qué medida realmente has controlado el curso que ha tomado tu vida?",
+          "fecha": "2025-03-15"
+         },
+         {
+          "pregunta": "74. ¿Qué significa ser humano?",
+          "fecha": "2025-03-16"
+         },
+         {
+          "pregunta": "75. ¿Con qué debes tener cuidado?",
+          "fecha": "2025-03-17"
+         },
+         {
+          "pregunta": "76. ¿Qué es lo que más te gusta de ti mismo?",
+          "fecha": "2025-03-18"
+         },
+         {
+          "pregunta": "77. ¿Dónde te gustaría ir y por qué?",
+          "fecha": "2025-03-19"
+         },
+         {
+          "pregunta": "78. ¿Qué te cuesta más que a los demás?",
+          "fecha": "2025-03-20"
+         },
+         {
+          "pregunta": "79. ¿Qué te imaginas haciendo dentro de diez años?",
+          "fecha": "2025-03-21"
+         },
+         {
+          "pregunta": "80. ¿Qué pequeño acto de bondad has hecho en el último mes?",
+          "fecha": "2025-03-22"
+         },
+         {
+          "pregunta": "81. ¿Cuándo te sientes como un niño?",
+          "fecha": "2025-03-23"
+         },
+         {
+          "pregunta": "82. ¿Eres dueño de tus cosas o son las cosas las que te dominan en estos momentos?",
+          "fecha": "2025-03-24"
+         },
+         {
+          "pregunta": "83. ¿Qué has hecho últimamente guiado por la nostalgia?",
+          "fecha": "2025-03-25"
+         },
+         {
+          "pregunta": "84. ¿Qué dos cosas no te gustan en lo absoluto?",
+          "fecha": "2025-03-26"
+         },
+         {
+          "pregunta": "85. ¿Qué tienes que no puedes vivir sin él?",
+          "fecha": "2025-03-27"
+         },
+         {
+          "pregunta": "86. Cuando cierras los ojos, ¿qué ves?",
+          "fecha": "2025-03-28"
+         },
+         {
+          "pregunta": "87. ¿Qué te sostiene a diario?",
+          "fecha": "2025-03-29"
+         },
+         {
+          "pregunta": "88. ¿Cuáles son tus cinco principales valores personales?",
+          "fecha": "2025-03-30"
+         },
+         {
+          "pregunta": "89. ¿Qué te gustaría tener?",
+          "fecha": "2025-03-31"
+         },
+         {
+          "pregunta": "90. ¿Qué fue lo último que celebraste?",
+          "fecha": "2025-04-01"
+         },
+         {
+          "pregunta": "91. ¿Qué te hace sonreír?",
+          "fecha": "2025-04-02"
+         },
+         {
+          "pregunta": "92. ¿Qué cosa no has hecho aun que realmente quieres hacer?",
+          "fecha": "2025-04-03"
+         },
+         {
+          "pregunta": "93. ¿Hay algo que nadie pueda hacer en tu lugar?",
+          "fecha": "2025-04-04"
+         },
+         {
+          "pregunta": "94. ¿Qué no puede robarte nadie?",
+          "fecha": "2025-04-05"
+         },
+         {
+          "pregunta": "95. ¿Qué tres palabras utilizarías para describir los últimos tres meses?",
+          "fecha": "2025-04-06"
+         },
+         {
+          "pregunta": "96. ¿Con qué puedes contar?",
+          "fecha": "2025-04-07"
+         },
+         {
+          "pregunta": "97. ¿Qué tres palabras te definen en este momento de tu vida?",
+          "fecha": "2025-04-08"
+         },
+         {
+          "pregunta": "98. ¿Qué es lo más importante que puedes hacer ahora?",
+          "fecha": "2025-04-09"
+         },
+         {
+          "pregunta": "99. Si pudieras hacer sólo una pregunta a una persona, viva o muerta, ¿a quién y qué le preguntarías?",
+          "fecha": "2025-04-10"
+         },
+         {
+          "pregunta": "100. ¿Qué mentira has escuchado últimamente?",
+          "fecha": "2025-04-11"
+         },
+         {
+          "pregunta": "101. ¿Cuál es tu objetivo número uno para los próximos seis meses?",
+          "fecha": "2025-04-12"
+         },
+         {
+          "pregunta": "102. ¿En quién has estado pensando últimamente?",
+          "fecha": "2025-04-13"
+         },
+         {
+          "pregunta": "103. ¿Estás contento contigo mismo?",
+          "fecha": "2025-04-14"
+         },
+         {
+          "pregunta": "104. ¿Dónde encuentras paz?",
+          "fecha": "2025-04-15"
+         },
+         {
+          "pregunta": "105. ¿Qué te hace falta ahora para conseguir lo que quieres?",
+          "fecha": "2025-04-16"
+         },
+         {
+          "pregunta": "106. ¿Qué te gustaría hacer una vez más?",
+          "fecha": "2025-04-17"
+         },
+         {
+          "pregunta": "107. ¿Qué noticia te ha interesado hoy?",
+          "fecha": "2025-04-18"
+         },
+         {
+          "pregunta": "108. Si tu vida fuera una novela, ¿cuál sería el título y cómo sería el final de la historia?",
+          "fecha": "2025-04-19"
+         },
+         {
+          "pregunta": "109. ¿De qué no te desprenderías ni por un millón?",
+          "fecha": "2025-04-20"
+         },
+         {
+          "pregunta": "110. ¿En que momento te sientes más como tú mismo?",
+          "fecha": "2025-04-21"
+         },
+         {
+          "pregunta": "111. ¿Esperas una recompensa por tus acciones?",
+          "fecha": "2025-04-22"
+         },
+         {
+          "pregunta": "112. ¿Cuál es tu mayor reto?",
+          "fecha": "2025-04-23"
+         },
+         {
+          "pregunta": "113. ¿A qué lugar te gustaría regresar?",
+          "fecha": "2025-04-24"
+         },
+         {
+          "pregunta": "114. ¿Cómo defines el éxito en estos momentos de tu vida?",
+          "fecha": "2025-04-25"
+         },
+         {
+          "pregunta": "115. ¿Cómo te sientes ahora?",
+          "fecha": "2025-04-26"
+         },
+         {
+          "pregunta": "116. Si pudieras hacer realidad un deseo, ¿qué desearías?",
+          "fecha": "2025-04-27"
+         },
+         {
+          "pregunta": "117. ¿Qué has leído hace poco que te inspiró?",
+          "fecha": "2025-04-28"
+         },
+         {
+          "pregunta": "118. ¿En qué piensas con frecuencia?",
+          "fecha": "2025-04-29"
+         },
+         {
+          "pregunta": "119. ¿Qué has hecho en el último mes que no repetirías nunca?",
+          "fecha": "2025-04-30"
+         },
+         {
+          "pregunta": "120. ¿De qué tres canciones conoces toda la letra?",
+          "fecha": "2025-05-01"
+         },
+         {
+          "pregunta": "121. ¿Qué instrumento te resulta más útil?",
+          "fecha": "2025-05-02"
+         },
+         {
+          "pregunta": "122. Más allá de los títulos que los demás te han dado, ¿quién eres?",
+          "fecha": "2025-05-03"
+         },
+         {
+          "pregunta": "123. Si pudieras vivir las próximas 24 horas y luego borrarlo y empezar de nuevo sólo una vez, ¿qué harías?",
+          "fecha": "2025-05-04"
+         },
+         {
+          "pregunta": "124. ¿Qué verdad has aprendido últimamente?",
+          "fecha": "2025-05-05"
+         },
+         {
+          "pregunta": "125. En una palabra, ¿cómo has pasado el último mes?",
+          "fecha": "2025-05-06"
+         },
+         {
+          "pregunta": "126. ¿Qué hace sonreír a todos?",
+          "fecha": "2025-05-07"
+         },
+         {
+          "pregunta": "127. ¿Qué tipo de personas evitas?",
+          "fecha": "2025-05-08"
+         },
+         {
+          "pregunta": "128. ¿En que suelen los demás equivocarse respecto a ti?",
+          "fecha": "2025-05-09"
+         },
+         {
+          "pregunta": "129. ¿Puedes pensar en un momento en que hiciste posible lo imposible?",
+          "fecha": "2025-05-10"
+         },
+         {
+          "pregunta": "130. ¿Qué es lo que más te importa ahora?",
+          "fecha": "2025-05-11"
+         },
+         {
+          "pregunta": "131. ¿Cómo has cambiado en el último año?",
+          "fecha": "2025-05-12"
+         },
+         {
+          "pregunta": "132. ¿Qué necesita el mundo ahora?",
+          "fecha": "2025-05-13"
+         },
+         {
+          "pregunta": "133. ¿Qué significa “casa” para ti?",
+          "fecha": "2025-05-14"
+         },
+         {
+          "pregunta": "134. En estos momentos, ¿te conformas o aceptas las cosas como son?",
+          "fecha": "2025-05-15"
+         },
+         {
+          "pregunta": "135. ¿Cuáles son tus amigos más cercanos ahora?",
+          "fecha": "2025-05-16"
+         },
+         {
+          "pregunta": "136. ¿Qué te ha asombrado últimamente?",
+          "fecha": "2025-05-17"
+         },
+         {
+          "pregunta": "137. Ahora mismo, ¿a quién extrañas?",
+          "fecha": "2025-05-18"
+         },
+         {
+          "pregunta": "138. ¿Qué país te gustaría visitar?",
+          "fecha": "2025-05-19"
+         },
+         {
+          "pregunta": "139. ¿Qué te ha hecho sentir últimamente que el tiempo vuela?",
+          "fecha": "2025-05-20"
+         },
+         {
+          "pregunta": "140. ¿Cómo es tu situación financiera actual?",
+          "fecha": "2025-05-21"
+         },
+         {
+          "pregunta": "141. ¿Qué es lo más difícil que has tenido que decir últimamente?",
+          "fecha": "2025-05-22"
+         },
+         {
+          "pregunta": "142. ¿De qué te sientes orgulloso?",
+          "fecha": "2025-05-23"
+         },
+         {
+          "pregunta": "143. ¿Qué tres cosas amas hacer?",
+          "fecha": "2025-05-24"
+         },
+         {
+          "pregunta": "144. ¿Cuál fue el mejor momento de la semana pasada?",
+          "fecha": "2025-05-25"
+         },
+         {
+          "pregunta": "145. ¿Qué has comprado últimamente y luego no ha sido tan bueno como creías?",
+          "fecha": "2025-05-26"
+         },
+         {
+          "pregunta": "146. ¿Qué es lo más valioso que tienes?",
+          "fecha": "2025-05-27"
+         },
+         {
+          "pregunta": "147. ¿Cuáles son las tres cosas que más usas?",
+          "fecha": "2025-05-28"
+         },
+         {
+          "pregunta": "148. ¿Cuál es tu momento favorito del día?",
+          "fecha": "2025-05-29"
+         },
+         {
+          "pregunta": "149. ¿En quién confías y por qué?",
+          "fecha": "2025-05-30"
+         },
+         {
+          "pregunta": "150. ¿Lo más lejos que has estado de tu casa en el último año?",
+          "fecha": "2025-05-31"
+         },
+         {
+          "pregunta": "151. ¿Qué has dejado sin terminar últimamente?",
+          "fecha": "2025-06-01"
+         },
+         {
+          "pregunta": "152. ¿Cómo pasas la mayor parte de tu tiempo libre?",
+          "fecha": "2025-06-02"
+         },
+         {
+          "pregunta": "153. ¿Quién te viene a la cabeza cuando piensas en el éxito?",
+          "fecha": "2025-06-03"
+         },
+         {
+          "pregunta": "154. ¿Qué te hace sentir mayor de lo que eres?",
+          "fecha": "2025-06-04"
+         },
+         {
+          "pregunta": "155. ¿Cómo influirá tu día de hoy dentro de cinco años?",
+          "fecha": "2025-06-05"
+         },
+         {
+          "pregunta": "156. ¿Cómo has ayudado a alguien últimamente?",
+          "fecha": "2025-06-06"
+         },
+         {
+          "pregunta": "157. ¿Cuál es tu mayor habilidad?",
+          "fecha": "2025-06-07"
+         },
+         {
+          "pregunta": "158. ¿Qué has hecho para que otros sonrían en el último mes?",
+          "fecha": "2025-06-08"
+         },
+         {
+          "pregunta": "159. ¿Cómo perseguir tus sueños en este momento?",
+          "fecha": "2025-06-09"
+         },
+         {
+          "pregunta": "160. ¿Cuál es el próximo gran paso que necesitas tomar?",
+          "fecha": "2025-06-10"
+         },
+         {
+          "pregunta": "161. ¿Cómo describes con una palabra la sociedad en la que vives?",
+          "fecha": "2025-06-11"
+         },
+         {
+          "pregunta": "162. ¿Qué has dicho de más últimamente?",
+          "fecha": "2025-06-12"
+         },
+         {
+          "pregunta": "163. ¿Con quién sueñas?",
+          "fecha": "2025-06-13"
+         },
+         {
+          "pregunta": "164. ¿Qué te es difícil de imaginar?",
+          "fecha": "2025-06-14"
+         },
+         {
+          "pregunta": "165. ¿Qué estás esperando?",
+          "fecha": "2025-06-15"
+         },
+         {
+          "pregunta": "166. Una cosa que quieras lograr en esta vida.",
+          "fecha": "2025-06-16"
+         },
+         {
+          "pregunta": "167. En el último mes, ¿qué has decidido no hacer, y sin embargo lo has hecho?",
+          "fecha": "2025-06-17"
+         },
+         {
+          "pregunta": "168. ¿Qué lugar no te gustaría visitar?",
+          "fecha": "2025-06-18"
+         },
+         {
+          "pregunta": "169. ¿Quién es la persona más fuerte que conoces?",
+          "fecha": "2025-06-19"
+         },
+         {
+          "pregunta": "170. ¿Qué te deja sin fuerzas?",
+          "fecha": "2025-06-20"
+         },
+         {
+          "pregunta": "171. ¿Cuándo y dónde dormiste por última vez fuera de casa?",
+          "fecha": "2025-06-21"
+         },
+         {
+          "pregunta": "172. ¿Quién ha sido el último en venir a visitarte?",
+          "fecha": "2025-06-22"
+         },
+         {
+          "pregunta": "173. ¿Qué cualidad has visto en otros que te gustaría tener?",
+          "fecha": "2025-06-23"
+         },
+         {
+          "pregunta": "174. ¿Has aprendido algo recientemente que haya cambiado la manera en que vives?",
+          "fecha": "2025-06-24"
+         },
+         {
+          "pregunta": "175. ¿Qué ha sido lo peor de esta semana?",
+          "fecha": "2025-06-25"
+         },
+         {
+          "pregunta": "176. ¿Cuáles son los principales componentes de una vida feliz?",
+          "fecha": "2025-06-26"
+         },
+         {
+          "pregunta": "177. Una frase que te venga a la cabeza ahora.",
+          "fecha": "2025-06-27"
+         },
+         {
+          "pregunta": "178. ¿Cuál es tu canción o melodía favorita? ¿Por qué?",
+          "fecha": "2025-06-28"
+         },
+         {
+          "pregunta": "179. Con los recursos que tienes en estos momentos, ¿qué puedes hacer para acercarte a tu meta?",
+          "fecha": "2025-06-29"
+         },
+         {
+          "pregunta": "180. ¿Cuáles son tus tres prioridades?",
+          "fecha": "2025-06-30"
+         },
+         {
+          "pregunta": "181. ¿Qué has hecho hoy?",
+          "fecha": "2025-07-01"
+         },
+         {
+          "pregunta": "182. ¿Qué es lo más bonito que alguien ha hecho por ti últimamente?",
+          "fecha": "2025-07-02"
+         },
+         {
+          "pregunta": "183. ¿Qué ves cuando te miras en el futuro?",
+          "fecha": "2025-07-03"
+         },
+         {
+          "pregunta": "184. ¿Qué te hace enojar? ¿Por qué?",
+          "fecha": "2025-07-04"
+         },
+         {
+          "pregunta": "185. Una lección de vida que aprendiste de tus padres.",
+          "fecha": "2025-07-05"
+         },
+         {
+          "pregunta": "186. ¿Qué haces para mantenerte en forma?",
+          "fecha": "2025-07-06"
+         },
+         {
+          "pregunta": "187. Entre los placeres simples, ¿cuáles son tus favoritos?",
+          "fecha": "2025-07-07"
+         },
+         {
+          "pregunta": "188. Si pudieras retroceder en el tiempo y contarle una cosa a una versión más joven de",
+          "fecha": "2025-07-08"
+         },
+         {
+          "pregunta": "ti mismo, ¿qué le dirías?",
+          "fecha": "2025-07-09"
+         },
+         {
+          "pregunta": "189. ¿Qué haces cuando quieres impresionar a los demás?",
+          "fecha": "2025-07-10"
+         },
+         {
+          "pregunta": "190. ¿Qué es lo que nunca harías?",
+          "fecha": "2025-07-11"
+         },
+         {
+          "pregunta": "191. ¿A que te gustaría dedicarle más tiempo?",
+          "fecha": "2025-07-12"
+         },
+         {
+          "pregunta": "192. Basado en las experiencias de esta última semana, ¿Qué consejo darías a otra persona?",
+          "fecha": "2025-07-13"
+         },
+         {
+          "pregunta": "193. ¿De qué manera hubieras podido aprovechar mejor las últimas 24 horas?",
+          "fecha": "2025-07-14"
+         },
+         {
+          "pregunta": "194. ¿Cuál ha sido tu última curiosidad satisfecha?",
+          "fecha": "2025-07-15"
+         },
+         {
+          "pregunta": "195. ¿Cuándo y por qué te sentiste presionado por última vez?",
+          "fecha": "2025-07-16"
+         },
+         {
+          "pregunta": "196. ¿Qué es lo último que has compartido con alguien?",
+          "fecha": "2025-07-17"
+         },
+         {
+          "pregunta": "197. ¿Cómo has lastimado a otra persona?",
+          "fecha": "2025-07-18"
+         },
+         {
+          "pregunta": "198. ¿Qué es lo mejor de tener la edad que tienes actualmente?",
+          "fecha": "2025-07-19"
+         },
+         {
+          "pregunta": "199. ¿En qué ha estado tu mente últimamente?",
+          "fecha": "2025-07-20"
+         },
+         {
+          "pregunta": "200. ¿Qué música escuchaste hoy?",
+          "fecha": "2025-07-21"
+         },
+         {
+          "pregunta": "201. ¿Qué posibilidades te gustaría tener?",
+          "fecha": "2025-07-22"
+         },
+         {
+          "pregunta": "202. ¿Dónde más te gustaría vivir? ¿Por qué?",
+          "fecha": "2025-07-23"
+         },
+         {
+          "pregunta": "203. ¿Qué te motiva para levantarte cada día?",
+          "fecha": "2025-07-24"
+         },
+         {
+          "pregunta": "204. ¿Qué te gustaría haber hecho diferente?",
+          "fecha": "2025-07-25"
+         },
+         {
+          "pregunta": "205. ¿Cuál es tu mayor fortaleza y tu debilidad más grande en estos momentos?",
+          "fecha": "2025-07-26"
+         },
+         {
+          "pregunta": "206. ¿Cuándo fue la última vez que mentiste? ¿Por qué?",
+          "fecha": "2025-07-27"
+         },
+         {
+          "pregunta": "207. ¿Qué te hizo sonreír en esta semana?",
+          "fecha": "2025-07-28"
+         },
+         {
+          "pregunta": "208. ¿Qué haces con la mayoría de tu dinero?",
+          "fecha": "2025-07-29"
+         },
+         {
+          "pregunta": "209. ¿Qué te motiva a ser mejor?",
+          "fecha": "2025-07-30"
+         },
+         {
+          "pregunta": "210. ¿Cuándo fue la última vez que perdiste los estribos? ¿Sobre qué?",
+          "fecha": "2025-07-31"
+         },
+         {
+          "pregunta": "211. ¿En qué no cejarías?",
+          "fecha": "2025-08-01"
+         },
+         {
+          "pregunta": "212. Cuando miras hacia el pasado, ¿qué es lo que más extrañas?",
+          "fecha": "2025-08-02"
+         },
+         {
+          "pregunta": "213. ¿Cómo describirías el último año de su vida en una frase?",
+          "fecha": "2025-08-03"
+         },
+         {
+          "pregunta": "214. ¿Qué es lo más espontáneo que has hecho últimamente?",
+          "fecha": "2025-08-04"
+         },
+         {
+          "pregunta": "215. ¿Qué te hace sentir incómodo?",
+          "fecha": "2025-08-05"
+         },
+         {
+          "pregunta": "216. Si tuvieras que mudarte, ¿qué echarías de menos?",
+          "fecha": "2025-08-06"
+         },
+         {
+          "pregunta": "217. ¿Qué te preocupa acerca del futuro?",
+          "fecha": "2025-08-07"
+         },
+         {
+          "pregunta": "218. ¿Qué necesidad y qué deseo te gustaría satisfacer en el próximo año?",
+          "fecha": "2025-08-08"
+         },
+         {
+          "pregunta": "219. ¿Tienes algo pendiente?",
+          "fecha": "2025-08-09"
+         },
+         {
+          "pregunta": "220. ¿Te gusta la ciudad o pueblo donde vives? ¿Por qué?",
+          "fecha": "2025-08-10"
+         },
+         {
+          "pregunta": "221. ¿Cuál es la mejor parte de ser tú mismo?",
+          "fecha": "2025-08-11"
+         },
+         {
+          "pregunta": "222. ¿Qué te gustaría retomar?",
+          "fecha": "2025-08-12"
+         },
+         {
+          "pregunta": "223. ¿Qué haces para aliviar el estrés?",
+          "fecha": "2025-08-13"
+         },
+         {
+          "pregunta": "224. ¿Qué te has sentido obligado a hacer últimamente?",
+          "fecha": "2025-08-14"
+         },
+         {
+          "pregunta": "225. ¿Sientes que estas progresando? ¿Cómo?",
+          "fecha": "2025-08-15"
+         },
+         {
+          "pregunta": "226. ¿Qué te gustaría cambiar en ti mismo?",
+          "fecha": "2025-08-16"
+         },
+         {
+          "pregunta": "227. ¿Qué has hecho en la ultima semana por el simple placer de hacerlo?",
+          "fecha": "2025-08-17"
+         },
+         {
+          "pregunta": "228. ¿Has tomado alguna decisión importante en los últimos tiempos?",
+          "fecha": "2025-08-18"
+         },
+         {
+          "pregunta": "229. ¿Cuál es tu historia favorita real que te gustaría compartir con los demás?",
+          "fecha": "2025-08-19"
+         },
+         {
+          "pregunta": "230. Ahora mismo, en este momento, ¿qué es lo que mas quieres?",
+          "fecha": "2025-08-20"
+         },
+         {
+          "pregunta": "231. ¿Cuál ha sido la última respuesta que has buscado (en Internet)?",
+          "fecha": "2025-08-21"
+         },
+         {
+          "pregunta": "232. ¿Tienes una formula para mantener vivo el amor?",
+          "fecha": "2025-08-22"
+         },
+         {
+          "pregunta": "233. ¿Cuál fue la última vez que te sentiste satisfecho de tus acciones?",
+          "fecha": "2025-08-23"
+         },
+         {
+          "pregunta": "234. ¿Cuál es la lección más importante que has aprendido en el último año?",
+          "fecha": "2025-08-24"
+         },
+         {
+          "pregunta": "235. Sobre la base de tus acciones actuales y rutinas diarias, ¿dónde esperas estar en cinco años?",
+          "fecha": "2025-08-25"
+         },
+         {
+          "pregunta": "236. ¿Cuál fue tu último gran logro?",
+          "fecha": "2025-08-26"
+         },
+         {
+          "pregunta": "237. En este último año, ¿quién ha estado a tu lado en las buenas y en las malas?",
+          "fecha": "2025-08-27"
+         },
+         {
+          "pregunta": "238. ¿Qué o quién te ha estado distrayendo?",
+          "fecha": "2025-08-28"
+         },
+         {
+          "pregunta": "239. ¿Qué quieres hacer en la semana próxima?",
+          "fecha": "2025-08-29"
+         },
+         {
+          "pregunta": "240. ¿Qué lección has aprendido de otra persona últimamente?",
+          "fecha": "2025-08-30"
+         },
+         {
+          "pregunta": "241. ¿De qué tienes dudas?",
+          "fecha": "2025-08-31"
+         },
+         {
+          "pregunta": "242. ¿Qué piensas cuando estás despierto en la cama?",
+          "fecha": "2025-09-01"
+         },
+         {
+          "pregunta": "243. Una cosa que la mayoría de la gente no sabe acerca de ti.",
+          "fecha": "2025-09-02"
+         },
+         {
+          "pregunta": "244. Cuando tienes una hora aleatoria de tiempo libre, ¿qué sueles hacer?",
+          "fecha": "2025-09-03"
+         },
+         {
+          "pregunta": "245. ¿Qué te hace “raro” ante los demás?",
+          "fecha": "2025-09-04"
+         },
+         {
+          "pregunta": "246. ¿Qué cambiarías de las últimas 24 horas?",
+          "fecha": "2025-09-05"
+         },
+         {
+          "pregunta": "247. ¿Qué no te gusta hacer y sin embargo lo haces una y otra vez?",
+          "fecha": "2025-09-06"
+         },
+         {
+          "pregunta": "248. ¿Qué te hace sentir atractivo?",
+          "fecha": "2025-09-07"
+         },
+         {
+          "pregunta": "249. ¿Tienes un plan para mañana?",
+          "fecha": "2025-09-08"
+         },
+         {
+          "pregunta": "250. ¿Cuál es el cambio más grande que has hecho en tu vida en el último año?",
+          "fecha": "2025-09-09"
+         },
+         {
+          "pregunta": "251. ¿Qué entiendes hoy en día acerca de tu vida que no entendías hace un año?",
+          "fecha": "2025-09-10"
+         },
+         {
+          "pregunta": "252. ¿Estás estudiando o aprendiendo algo nuevo?",
+          "fecha": "2025-09-11"
+         },
+         {
+          "pregunta": "253. ¿Qué lección sacas del día de ayer?",
+          "fecha": "2025-09-12"
+         },
+         {
+          "pregunta": "254. ¿Quién te impresiona? ¿Por qué?",
+          "fecha": "2025-09-13"
+         },
+         {
+          "pregunta": "255. ¿Qué has hecho de lo que no estás orgulloso?",
+          "fecha": "2025-09-14"
+         },
+         {
+          "pregunta": "256. ¿Has ensayado una nueva manera de hacer algo cotidiano?",
+          "fecha": "2025-09-15"
+         },
+         {
+          "pregunta": "257. ¿Cómo pasarías el día ideal?",
+          "fecha": "2025-09-16"
+         },
+         {
+          "pregunta": "258. ¿Cuál es la cualidad principal que buscas en otra persona?",
+          "fecha": "2025-09-17"
+         },
+         {
+          "pregunta": "259. ¿Qué es lo que más admiras de tu madre y de tu padre?",
+          "fecha": "2025-09-18"
+         },
+         {
+          "pregunta": "260. ¿Cuál es el mejor consejo que has recibido?",
+          "fecha": "2025-09-19"
+         },
+         {
+          "pregunta": "261. ¿Te gustaría vivir para siempre? ¿Por qué?",
+          "fecha": "2025-09-20"
+         },
+         {
+          "pregunta": "262. Si tuvieras que ser otra persona por un día, ¿quién serías y por qué?",
+          "fecha": "2025-09-21"
+         },
+         {
+          "pregunta": "263. ¿Qué cambios positivos has hecho en tu vida últimamente?",
+          "fecha": "2025-09-22"
+         },
+         {
+          "pregunta": "264. ¿Quién te hace sentir bien contigo mismo? ¿Quién saca lo peor de ti?",
+          "fecha": "2025-09-23"
+         },
+         {
+          "pregunta": "265. ¿Cuál es tu mayor aspiración?",
+          "fecha": "2025-09-24"
+         },
+         {
+          "pregunta": "266. ¿Cuál de tus responsabilidades te gustaría eliminar?",
+          "fecha": "2025-09-25"
+         },
+         {
+          "pregunta": "267. ¿Qué no te gusta hacer?",
+          "fecha": "2025-09-26"
+         },
+         {
+          "pregunta": "268. ¿Qué tipo de persona te enoja más?",
+          "fecha": "2025-09-27"
+         },
+         {
+          "pregunta": "269. ¿Falta algo en tu vida?",
+          "fecha": "2025-09-28"
+         },
+         {
+          "pregunta": "270. ¿Cuál es tu atributo físico más impresionante?",
+          "fecha": "2025-09-29"
+         },
+         {
+          "pregunta": "271. ¿Qué has dejado de hacer por miedo al fracaso?",
+          "fecha": "2025-09-30"
+         },
+         {
+          "pregunta": "272. ¿A quién te gustaría complacer?",
+          "fecha": "2025-10-01"
+         },
+         {
+          "pregunta": "273. ¿En quien o en qué personaje te has visto reflejado últimamente?",
+          "fecha": "2025-10-02"
+         },
+         {
+          "pregunta": "274. Cuando te encuentras con alguien por primera vez, ¿qué quieres que piensen de ti?",
+          "fecha": "2025-10-03"
+         },
+         {
+          "pregunta": "275. ¿A quién te gustaría a perdonar?",
+          "fecha": "2025-10-04"
+         },
+         {
+          "pregunta": "276. ¿En qué momento te sientes solo o perdido?",
+          "fecha": "2025-10-05"
+         },
+         {
+          "pregunta": "277. ¿Qué oportunidad crees haber perdido?",
+          "fecha": "2025-10-06"
+         },
+         {
+          "pregunta": "278. ¿Qué te gustaría incrementar en tu vida?",
+          "fecha": "2025-10-07"
+         },
+         {
+          "pregunta": "279. ¿Cuál fue la última película que viste?",
+          "fecha": "2025-10-08"
+         },
+         {
+          "pregunta": "280. ¿Quién depende de ti?",
+          "fecha": "2025-10-09"
+         },
+         {
+          "pregunta": "281. ¿Qué has hecho últimamente motivado por otra persona?",
+          "fecha": "2025-10-10"
+         },
+         {
+          "pregunta": "282. ¿Estás contento con el lugar donde te encuentras en tu vida? ¿Por qué?",
+          "fecha": "2025-10-11"
+         },
+         {
+          "pregunta": "283. Dentro de un año, ¿cómo crees que habrás cambiado?",
+          "fecha": "2025-10-12"
+         },
+         {
+          "pregunta": "284. ¿Te has saboteado a ti mismo últimamente? ¿Cómo?",
+          "fecha": "2025-10-13"
+         },
+         {
+          "pregunta": "285. ¿Qué imagen crees que proyectas actualmente?",
+          "fecha": "2025-10-14"
+         },
+         {
+          "pregunta": "286. ¿De quién sientes envidia? ¿Por qué?",
+          "fecha": "2025-10-15"
+         },
+         {
+          "pregunta": "287. En veinte años, ¿qué quieres recordar?",
+          "fecha": "2025-10-16"
+         },
+         {
+          "pregunta": "288. ¿Qué es lo que más te gusta de tu vida ahora mismo?",
+          "fecha": "2025-10-17"
+         },
+         {
+          "pregunta": "289. ¿Estás contento con tu imagen exterior?",
+          "fecha": "2025-10-18"
+         },
+         {
+          "pregunta": "290. ¿Qué es lo más agradable que has hecho junto a tu familia últimamente?",
+          "fecha": "2025-10-19"
+         },
+         {
+          "pregunta": "291. ¿Cuántas horas de televisión has visto en la última semana?",
+          "fecha": "2025-10-20"
+         },
+         {
+          "pregunta": "292. ¿Cuál es el mayor obstáculo que se interpone en tu camino en este momento?",
+          "fecha": "2025-10-21"
+         },
+         {
+          "pregunta": "293. ¿Hay algo que no entiendes?",
+          "fecha": "2025-10-22"
+         },
+         {
+          "pregunta": "294. ¿Qué es lo que más te gusta de tu día a día? ¿Y lo que más te molesta?",
+          "fecha": "2025-10-23"
+         },
+         {
+          "pregunta": "295. ¿Qué has aprendido nuevo sobre ti mismo?",
+          "fecha": "2025-10-24"
+         },
+         {
+          "pregunta": "296. En una frase, ¿cómo describirías tu relación con tu madre?",
+          "fecha": "2025-10-25"
+         },
+         {
+          "pregunta": "297. ¿Has hecho algo creativo últimamente?",
+          "fecha": "2025-10-26"
+         },
+         {
+          "pregunta": "298. ¿Qué parte de tu cuerpo te gusta más? ¿Cuál te gusta menos?",
+          "fecha": "2025-10-27"
+         },
+         {
+          "pregunta": "299. ¿Qué te hace sentirse seguro?",
+          "fecha": "2025-10-28"
+         },
+         {
+          "pregunta": "300. ¿Cuál es tu sonido favorito?",
+          "fecha": "2025-10-29"
+         },
+         {
+          "pregunta": "301. ¿Qué cualidad te gustaría tener?",
+          "fecha": "2025-10-30"
+         },
+         {
+          "pregunta": "302. ¿Qué haces siempre de la misma manera?",
+          "fecha": "2025-10-31"
+         },
+         {
+          "pregunta": "303. ¿Cuál es tu olor favorito?",
+          "fecha": "2025-11-01"
+         },
+         {
+          "pregunta": "304. ¿Cuál es el suceso reciente que más te ha hecho reír?",
+          "fecha": "2025-11-02"
+         },
+         {
+          "pregunta": "305. En una palabra, ¿cómo describirías esta última semana?",
+          "fecha": "2025-11-03"
+         },
+         {
+          "pregunta": "306. ¿Hoy fue un buen día? ¿Por qué?",
+          "fecha": "2025-11-04"
+         },
+         {
+          "pregunta": "307. Tres cosas buenas de la semana pasada.",
+          "fecha": "2025-11-05"
+         },
+         {
+          "pregunta": "308. ¿Qué música te gusta escuchar para levantar el ánimo cuando te sientes mal?",
+          "fecha": "2025-11-06"
+         },
+         {
+          "pregunta": "309. Si te doy mil euros para gastar hoy, ¿qué comprarías?",
+          "fecha": "2025-11-07"
+         },
+         {
+          "pregunta": "310. Esta semana quisiera buscar un tiempo para…",
+          "fecha": "2025-11-08"
+         },
+         {
+          "pregunta": "311. ¿Cuál es tu mayor manía?",
+          "fecha": "2025-11-09"
+         },
+         {
+          "pregunta": "312. ¿Con quién te sientes incomodo? ¿Por qué?",
+          "fecha": "2025-11-10"
+         },
+         {
+          "pregunta": "313. ¿Cuál es tu mayor miedo?",
+          "fecha": "2025-11-11"
+         },
+         {
+          "pregunta": "314. ¿Qué elogios has recibido recientemente?",
+          "fecha": "2025-11-12"
+         },
+         {
+          "pregunta": "315. ¿Cuántos amigos tienes en la vida real, con los que hablas con regularidad?",
+          "fecha": "2025-11-13"
+         },
+         {
+          "pregunta": "316. Algo que este comenzando en tu vida.",
+          "fecha": "2025-11-14"
+         },
+         {
+          "pregunta": "317. ¿Qué haces siempre a la carrera?",
+          "fecha": "2025-11-15"
+         },
+         {
+          "pregunta": "318. ¿Cuántas horas a la semana pasas en Internet?",
+          "fecha": "2025-11-16"
+         },
+         {
+          "pregunta": "319. ¿Qué te gusta hacer?",
+          "fecha": "2025-11-17"
+         },
+         {
+          "pregunta": "320. ¿Qué rasgo específico de tu carácter te gusta más? ¿Cuál te gusta menos?",
+          "fecha": "2025-11-18"
+         },
+         {
+          "pregunta": "321. ¿Te sientes más como tu mamá o como tu papá? ¿De qué manera?",
+          "fecha": "2025-11-19"
+         },
+         {
+          "pregunta": "322. ¿Qué no puede faltarte?",
+          "fecha": "2025-11-20"
+         },
+         {
+          "pregunta": "323. ¿Qué malos hábitos quieres romper?",
+          "fecha": "2025-11-21"
+         },
+         {
+          "pregunta": "324. ¿Cuál es tu lugar favorito?",
+          "fecha": "2025-11-22"
+         },
+         {
+          "pregunta": "325. ¿Qué te gusta practicar?",
+          "fecha": "2025-11-23"
+         },
+         {
+          "pregunta": "326. ¿Qué preguntas sueles hacerte?",
+          "fecha": "2025-11-24"
+         },
+         {
+          "pregunta": "327. ¿En qué eres un experto?",
+          "fecha": "2025-11-25"
+         },
+         {
+          "pregunta": "328. ¿Qué te gustaría hacer con más frecuencia?",
+          "fecha": "2025-11-26"
+         },
+         {
+          "pregunta": "329. ¿En qué estas trabajando?",
+          "fecha": "2025-11-27"
+         },
+         {
+          "pregunta": "330. ¿Cuál ha sido la mejor etapa de este año?",
+          "fecha": "2025-11-28"
+         },
+         {
+          "pregunta": "331. ¿Qué hiciste ayer en la mañana?",
+          "fecha": "2025-11-29"
+         },
+         {
+          "pregunta": "332. ¿Cuál es el sueño más reciente que recuerdas?",
+          "fecha": "2025-11-30"
+         },
+         {
+          "pregunta": "333. ¿Qué te confunde?",
+          "fecha": "2025-12-01"
+         },
+         {
+          "pregunta": "334. ¿De qué manera eres tu peor enemigo?",
+          "fecha": "2025-12-02"
+         },
+         {
+          "pregunta": "335. ¿Cuando debías haber hablado y no lo hiciste? ¿Por qué?",
+          "fecha": "2025-12-03"
+         },
+         {
+          "pregunta": "336. ¿Cuál es tu cita favorita?",
+          "fecha": "2025-12-04"
+         },
+         {
+          "pregunta": "337. ¿Cuál es su historia de ficción favorita? (Novela, película, cuento, etc.)",
+          "fecha": "2025-12-05"
+         },
+         {
+          "pregunta": "338. ¿Dónde o a quién recurres cuando necesitas un buen consejo?",
+          "fecha": "2025-12-06"
+         },
+         {
+          "pregunta": "339. ¿Cuál medio artístico utilizas para expresarse?",
+          "fecha": "2025-12-07"
+         },
+         {
+          "pregunta": "340. ¿Qué animales ves con frecuencia?",
+          "fecha": "2025-12-08"
+         },
+         {
+          "pregunta": "341. ¿Qué te gustaría haber hecho antes?",
+          "fecha": "2025-12-09"
+         },
+         {
+          "pregunta": "342. Dos cosas que te gusta hacer con otras personas.",
+          "fecha": "2025-12-10"
+         },
+         {
+          "pregunta": "343. ¿En quién piensas con frecuencia pero ves raramente?",
+          "fecha": "2025-12-11"
+         },
+         {
+          "pregunta": "344. ¿Qué eventos o noticias te han interesado en los últimos días?",
+          "fecha": "2025-12-12"
+         },
+         {
+          "pregunta": "345. ¿Qué te hace feliz?",
+          "fecha": "2025-12-13"
+         },
+         {
+          "pregunta": "346. ¿En qué has perdido el interés recientemente?",
+          "fecha": "2025-12-14"
+         },
+         {
+          "pregunta": "347. ¿Qué te hace la vida más fácil?",
+          "fecha": "2025-12-15"
+         },
+         {
+          "pregunta": "348. ¿Con quien discutiste últimamente? ¿Por qué?",
+          "fecha": "2025-12-16"
+         },
+         {
+          "pregunta": "349. ¿Qué trabajo nunca harías sin importar cuánto te paguen?",
+          "fecha": "2025-12-17"
+         },
+         {
+          "pregunta": "350. ¿Qué te han aconsejado en los últimos tiempos?",
+          "fecha": "2025-12-18"
+         },
+         {
+          "pregunta": "351. ¿Qué eliminarías de la sociedad?",
+          "fecha": "2025-12-19"
+         },
+         {
+          "pregunta": "352. ¿Qué nimiedad te has tomado muy a pecho en este mes?",
+          "fecha": "2025-12-20"
+         },
+         {
+          "pregunta": "353. ¿Cuáles son tus tres mayores habilidades?",
+          "fecha": "2025-12-21"
+         },
+         {
+          "pregunta": "354. ¿Dónde pasas la mayor parte del tiempo mientras estás despierto?",
+          "fecha": "2025-12-22"
+         },
+         {
+          "pregunta": "355. ¿Has roto un compromiso (con otros o contigo mismo) últimamente?",
+          "fecha": "2025-12-23"
+         },
+         {
+          "pregunta": "356. ¿Qué estereotipos aceptas sin cuestionarlos?",
+          "fecha": "2025-12-24"
+         },
+         {
+          "pregunta": "357. ¿Cuándo fue la última vez que te sentiste afortunado?",
+          "fecha": "2025-12-25"
+         },
+         {
+          "pregunta": "358. ¿Qué reto personal has superado este año?",
+          "fecha": "2025-12-26"
+         },
+         {
+          "pregunta": "359. ¿Qué te gustaría que otros entendieran?",
+          "fecha": "2025-12-27"
+         },
+         {
+          "pregunta": "360. ¿Qué te llama la atención de otra persona?",
+          "fecha": "2025-12-28"
+         },
+         {
+          "pregunta": "361. ¿Qué pensaste anoche antes de dormir?",
+          "fecha": "2025-12-29"
+         },
+         {
+          "pregunta": "362. ¿Qué es una desventaja hoy en día?",
+          "fecha": "2025-12-30"
+         },
+         {
+          "pregunta": "363. ¿Qué te gustaría recordar de este año?",
+          "fecha": "2025-12-31"
+         }
+        ]
+        
+
+  
+}
+

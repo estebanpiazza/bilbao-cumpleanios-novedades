@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cumpleaños, Novedades y Reflexión</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+    /* Estilo para aumentar el tamaño de letra del calendario */
+    .calendar-container {
+      position: relative;
+      width: 100%;
+      overflow: hidden;
+      padding-bottom: 10px;
+    }
+    
+    .calendar-container iframe {
+      transform: scale(1.3);
+      transform-origin: top left;
+      width: 77%; /* Compensar el escalado */
+      height: 450px;
+    }
+    
+    /* Esta regla intenta modificar el contenido del iframe, pero solo funcionará si no hay restricciones de seguridad */
+    iframe {
+      font-size: 120% !important;
+    }
+  </style>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- Cabecera con el logo -->
+  <div class="header">
+    <img src="./limerik-logo.png" alt="Logo Colegio Limerick">
+    <h1>Colegio Limerick</h1>
+  </div>
+
+  <!-- Título principal -->
+  <h1 style="text-align: center;">Cumpleaños, Novedades y Reflexión del Día</h1>
+
+  <!-- Fecha y Hora -->
+  <div class="fecha-hora" id="fecha-hora"></div>
+  
+  <!-- Botón para actualizar manualmente -->
+  <div style="text-align: center; margin: 10px 0; position:fixed;bottom:0;right:0;">
+    <button onclick="cargarDatos(true)" style="padding: 5px 10px;">Actualizar Datos</button>
+  </div>
+
+  <!-- Pregunta de Reflexión -->
+  <div class="container">
+    <div class="reflexion" id="reflexion">
+      <!-- Aquí se mostrará la pregunta de reflexión -->
+    </div>
+  </div>
+  <div class="container">
+    
+    <!-- Columna de Cumpleaños -->
+    <div class="column">
+      <h2>Cumpleaños</h2>
+      <ul id="cumpleaños-lista">
+        <!-- Aquí se mostrarán los cumpleaños -->
+      </ul>
+    </div>
+
+    <!-- Columna de Novedades -->
+    <div class="column">
+      <h2>Novedades</h2>
+      
+      <div class="calendar-container">
+        <iframe 
+          src="https://calendar.google.com/calendar/embed?src=c_01379560f284f73b8def9762474989c43059afaab45ecead52311365abd8aa0d@group.calendar.google.com&ctz=America/Argentina/Buenos_Aires&mode=AGENDA&showTitle=0&showNav=0&showPrint=0&showTabs=0&showCalendars=0&showTz=0&bgcolor=%23ffffff&color=%231e5c1e"
+          frameborder="0" scrolling="no">
+        </iframe>
+      </div>
+
+      <ul style="display: none;" id="novedades-lista">
+        <!-- Aquí se mostrarán las novedades -->
+      </ul>
+    </div>
+  </div>
+
+  <script>
+    // Función para cargar el archivo JSON y actualizar el contenido
+    async function cargarDatos(forzarRecarga = false) {
+      try {
+        // Añadir un parámetro de tiempo para evitar la caché del navegador si se fuerza la recarga
+        const cacheBuster = forzarRecarga ? `?t=${new Date().getTime()}` : '';
+        const response = await fetch('datos.json' + cacheBuster);
+        
+        if (!response.ok) {
+          throw new Error(`Error HTTP: ${response.status}`);
+        }
+
+        const datos = await response.json();
+        const hoy = new Date(); // Fecha de hoy
+        const añoActual = hoy.getFullYear(); // Obtener el año actual
+        
+        // Formatear la fecha actual como YYYY-MM-DD para comparar con el JSON
+        const fechaHoyFormato = hoy.toISOString().split('T')[0];
+
+        // Función para verificar si un cumpleaños coincide con la fecha
+        function coincideCumpleaños(cumple, fecha) {
+          if (!cumple.fecha) return false; // Evitar errores si no hay fecha
+          
+          const [añoCumple, mesCumple, diaCumple] = cumple.fecha.split('-').map(Number);
+          
+          if (cumple.tipo === "alumno" && cumple.egreso >= añoActual) {
+            // Si es alumno y el año de egreso es mayor o igual que el actual
+            return fecha.getMonth() + 1 === mesCumple && fecha.getDate() === diaCumple;
+          } else if (cumple.tipo === "profesor") {
+            // Si es profesor, comparar solo día y mes sin validar egreso
+            return fecha.getMonth() + 1 === mesCumple && fecha.getDate() === diaCumple;
+          }
+
+          return false;
+        }
+
+        // Filtrar los cumpleaños
+        let cumpleañosDeHoy = datos.cumpleaños.filter(cumple => 
+          coincideCumpleaños(cumple, hoy)
+        );
+
+        // Si es viernes, agregar cumpleaños de sábado y domingo
+        if (hoy.getDay() === 5) { // 5 representa viernes
+          const sabado = new Date(hoy);
+          sabado.setDate(hoy.getDate() + 1);
+          
+          const domingo = new Date(hoy);
+          domingo.setDate(hoy.getDate() + 2);
+          
+          const cumpleañosSabadoDomingo = datos.cumpleaños.filter(cumple => 
+            coincideCumpleaños(cumple, sabado) || 
+            coincideCumpleaños(cumple, domingo)
+          );
+
+          cumpleañosDeHoy = [...cumpleañosDeHoy, ...cumpleañosSabadoDomingo];
+        }
+
+        // Filtrar las novedades que coinciden exactamente con la fecha de hoy
+        const novedadesDeHoy = datos.novedades.filter(novedad => {
+          return novedad.fecha === fechaHoyFormato;
+        });
+
+        // Filtrar la pregunta de reflexión que coincide con la fecha de hoy
+        const reflexionDeHoy = datos.preguntas_reflexion.find(pregunta => {
+          return pregunta.fecha === fechaHoyFormato;
+        });
+
+        // Limpiar las listas previas
+        const cumpleañosLista = document.getElementById('cumpleaños-lista');
+        const novedadesLista = document.getElementById('novedades-lista');
+        const reflexionDiv = document.getElementById('reflexion');
+        cumpleañosLista.innerHTML = '';
+        novedadesLista.innerHTML = '';
+        reflexionDiv.innerHTML = '';
+
+        // Mostrar los cumpleaños
+        if (cumpleañosDeHoy.length > 0) {
+          cumpleañosDeHoy.forEach(item => {
+            const li = document.createElement('li');
+            
+ 
+
+// Si es viernes, mostrar el día del cumpleaños
+if (hoy.getDay() === 5) {
+  const [, mes, dia] = item.fecha.split('-');
+  const fechaCumple = new Date(añoActual, mes - 1, dia);
+  
+  // Determinar si es cumpleaños de hoy, sábado o domingo
+  let diaCumple;
+  if (coincideCumpleaños(item, hoy)) {
+    diaCumple = 'hoy';
+  } else if (fechaCumple.getDay() === 6) {
+    diaCumple = 'sábado';
+  } else if (fechaCumple.getDay() === 0) {
+    diaCumple = 'domingo';
+  }
+  
+  li.textContent = `${item.nombre} (Cumpleaños ${diaCumple})`;
+} else {
+  li.textContent = item.nombre;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            cumpleañosLista.appendChild(li);
+          });
+        } else {
+          cumpleañosLista.innerHTML = '<li>No hay cumpleaños hoy</li>';
+        }
+
+        // Mostrar las novedades del día
+        if (novedadesDeHoy.length > 0) {
+          novedadesDeHoy.forEach(item => {
+            const li = document.createElement('li');
+            li.textContent = `${item.nombre} (${item.nivel})`;
+            novedadesLista.appendChild(li);
+          });
+        } else {
+          novedadesLista.innerHTML = '<li>No hay novedades hoy</li>';
+        }
+
+        // Mostrar la pregunta de reflexión del día
+        if (reflexionDeHoy) {
+          reflexionDiv.textContent = `Pregunta de Reflexión: ${reflexionDeHoy.pregunta}`;
+        } else {
+          reflexionDiv.textContent = 'No hay pregunta de reflexión para hoy.';
+        }
+
+        console.log('Datos cargados correctamente:', {
+          fecha: fechaHoyFormato,
+          cumpleaños: cumpleañosDeHoy.length,
+          novedades: novedadesDeHoy.length,
+          reflexion: reflexionDeHoy ? 'Disponible' : 'No disponible'
+        });
+        
+      } catch (error) {
+        console.error('Error cargando el archivo JSON:', error);
+      }
+    }
+
+    // Función para mostrar la fecha y hora actual en tiempo real
+    function actualizarFechaHora() {
+      const ahora = new Date();
+      const opciones = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+      const fecha = ahora.toLocaleDateString('es-ES', opciones);
+      const hora = ahora.toLocaleTimeString('es-ES');
+      document.getElementById('fecha-hora').innerHTML = `${fecha} - ${hora}`;
+    }
+
+    // Verificar si cambió el día desde la última carga
+    let diaActual = new Date().getDate();
+    function verificarCambioDeDia() {
+      const ahora = new Date();
+      if (diaActual !== ahora.getDate()) {
+        diaActual = ahora.getDate();
+        cargarDatos(true); // Forzar recarga de datos al cambiar de día
+        console.log('Cambio de día detectado - Datos recargados');
+      }
+    }
+
+    // Función que verifica la hora y recarga los datos cada hora y a las 7:00 AM
+    function verificarHoraParaActualizar() {
+      const ahora = new Date();
+      const horaActual = ahora.getHours();
+      const minutosActuales = ahora.getMinutes();
+
+      // Verificamos si es una hora en punto para actualizar
+      if (minutosActuales === 0) {
+        cargarDatos(true);
+        console.log('Actualización programada a la hora en punto');
+      }
+      
+      // Verificamos si es exactamente las 7:00 AM para actualizar
+      if (horaActual === 7 && minutosActuales === 0) {
+        window.location.reload(); // Recargar la página completa a las 7 AM
+      }
+
+      // Verificar si cambiamos de día
+      verificarCambioDeDia();
+    }
+
+    // Iniciar la página cargando los datos y actualizando la hora
+    window.onload = function() {
+      cargarDatos(); // Carga inicial de datos
+      actualizarFechaHora(); // Actualiza la fecha y hora inicial
+      
+      // Programar actualizaciones automáticas
+      setInterval(actualizarFechaHora, 1000); // Actualiza la hora cada segundo
+      setInterval(verificarHoraParaActualizar, 60000); // Verifica cada minuto si debe actualizar datos
+      setInterval(() => cargarDatos(true), 3600000); // Fuerza una actualización cada hora (3600000 ms)
+    };
+  </script>
+</body>
+</html>

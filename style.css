@@ -1,0 +1,263 @@
+/* Estilos generales */
+body {
+  font-family: 'Montserrat', 'Arial', sans-serif; /* Fuente más moderna */
+  color: #333;
+  background-color: #9B4143;
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+  line-height: 1.6;
+  background-image: linear-gradient(135deg, #9B4143 0%, #7a3436 100%); /* Degradado sutil */
+}
+
+/* Contenedor de cabecera con el logo */
+.header {
+  display: flex;
+  align-items: center;
+  padding: 30px 40px;
+  background-color: #1e5c1e;
+  background-image: linear-gradient(90deg, #1e5c1e 0%, #267326 100%); /* Degradado sutil */
+  color: white;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+  border-bottom: 4px solid rgba(255, 255, 255, 0.2);
+}
+
+.header img {
+  height: 120px;
+  margin-right: 40px;
+  filter: drop-shadow(0 4px 6px rgba(0, 0, 0, 0.2)); /* Sombra al logo */
+}
+
+h1 {
+  margin: 0;
+  margin-top: 6vh;
+  font-size: 4rem;
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Sombra al texto */
+  letter-spacing: 1px;
+}
+
+/* Contenedor principal */
+.container {
+  display: flex;
+  justify-content: center;
+  margin: 40px auto;
+  padding: 20px;
+  width: 92%;
+  box-sizing: border-box;
+  gap: 30px; /* Espacio moderno entre elementos */
+}
+
+/* Estilos para columnas */
+.column {
+  width: 48%;
+  background-color: #fff;
+  padding: 30px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+  border-radius: 20px;
+  transition: transform 0.3s ease; /* Animación sutil al pasar el ratón */
+  position: relative;
+  overflow: hidden;
+}
+
+.column:hover {
+  transform: translateY(-5px);
+}
+
+/* Destacar columnas importantes */
+.column:nth-child(1)::before, .column:nth-child(2)::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 6px;
+  background: #1e5c1e;
+}
+
+.column h2 {
+  color: #1e5c1e;
+  font-size: 2.8rem;
+  margin-bottom: 30px;
+  padding-bottom: 15px;
+  border-bottom: 3px solid rgba(30, 92, 30, 0.2);
+  position: relative;
+}
+
+.column h2::after {
+  content: '';
+  position: absolute;
+  bottom: -3px;
+  left: 0;
+  width: 80px;
+  height: 3px;
+  background-color: #1e5c1e;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 20px 0;
+  padding: 25px 30px;
+  background-color: #f8f8f8;
+  border-radius: 12px;
+  border-left: 5px solid #1e5c1e;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  font-size: 1.8rem;
+  transition: all 0.2s ease;
+}
+
+li:hover {
+  transform: translateX(5px);
+  background-color: #f0f5f0;
+}
+
+/* Estilo para la fecha y hora */
+.fecha-hora {
+  text-align: center;
+  font-size: 2.5rem;
+  margin: 25px 0 40px;
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.15);
+  padding: 15px 20px;
+  border-radius: 50px;
+  display: inline-block;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
+}
+
+/* Estilo para la pregunta de reflexión */
+.reflexion {
+  background-color: #1e5c1e;
+  background-image: linear-gradient(45deg, #1e5c1e 0%, #267326 100%);
+  color: white;
+  padding: 40px;
+  border-radius: 20px;
+  margin: 40px auto;
+  text-align: center;
+  font-size: 2.3rem;
+  font-weight: 500;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+  max-width: 90%;
+  position: relative;
+}
+
+.reflexion::before {
+  content: """;
+  font-size: 8rem;
+  position: absolute;
+  top: -20px;
+  left: 20px;
+  opacity: 0.2;
+  font-family: 'Georgia', serif;
+}
+
+/* Estilos para el calendario */
+.calendar-container {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  padding-bottom: 30px;
+  background-color: #fff;
+  border-radius: 16px;
+  box-shadow: inset 0 0 20px rgba(0,0,0,0.05);
+}
+
+.calendar-container iframe {
+  transform: scale(1.5);
+  transform-origin: top center;
+  width: 66%;
+  height: 500px;
+  margin: 0 auto;
+  display: block;
+  border-radius: 8px;
+}
+
+/* Estilos especiales para TV */
+@media (min-width: 1920px) {
+  body {
+    font-size: 24px;
+  }
+
+  .container {
+    width: 95%;
+    max-width: 2400px;
+  }
+
+  .header img {
+    height: 150px;
+  }
+
+  h1 {
+    font-size: 5rem;
+  }
+
+  .column h2 {
+    font-size: 3.5rem;
+  }
+
+  li {
+    font-size: 2.2rem;
+    padding: 35px;
+  }
+
+  .fecha-hora {
+    font-size: 3rem;
+  }
+
+  .reflexion {
+    font-size: 2.7rem;
+    padding: 50px;
+  }
+
+  .calendar-container iframe {
+    transform: scale(1.6);
+    height: 550px;
+    width: 62%;
+  }
+}
+
+/* Responsivo para pantallas pequeñas */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    width: 95%;
+  }
+
+  .column {
+    width: 100%;
+    margin-bottom: 40px;
+  }
+
+  .calendar-container iframe {
+    transform: scale(1.2);
+    width: 83%;
+    height: 450px;
+  }
+}
+
+/* Animaciones para elementos principales */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.column {
+  animation: fadeIn 0.6s ease-out;
+}
+
+.column:nth-child(2) {
+  animation-delay: 0.2s;
+}
+
+.reflexion {
+  animation: fadeIn 0.8s ease-out;
+  animation-delay: 0.3s;
+}
+
+
