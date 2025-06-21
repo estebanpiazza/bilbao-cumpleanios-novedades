@@ -25,6 +25,19 @@
     iframe {
       font-size: 120% !important;
     }
+    
+    /* Estilo para el video cuando se muestra */
+    .video-container {
+      width: 100%;
+      height: 450px;
+      display: none;
+    }
+    
+    .video-container video {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+    }
   </style>
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
 </head>
@@ -68,9 +81,18 @@
       
       <div class="calendar-container">
         <iframe 
+          id="calendar-iframe"
           src="https://calendar.google.com/calendar/embed?src=c_01379560f284f73b8def9762474989c43059afaab45ecead52311365abd8aa0d@group.calendar.google.com&ctz=America/Argentina/Buenos_Aires&mode=AGENDA&showTitle=0&showNav=0&showPrint=0&showTabs=0&showCalendars=0&showTz=0&bgcolor=%23ffffff&color=%231e5c1e"
           frameborder="0" scrolling="no">
         </iframe>
+        
+        <!-- Contenedor para el video especial -->
+        <div id="video-container" class="video-container">
+          <video autoplay loop muted>
+            <source src="./video.mp4" type="video/mp4">
+            Tu navegador no soporta videos.
+          </video>
+        </div>
       </div>
 
       <ul style="display: none;" id="novedades-lista">
@@ -80,9 +102,38 @@
   </div>
 
   <script>
+    // Función para verificar si es la fecha especial y mostrar el video
+    function verificarFechaEspecial() {
+      const hoy = new Date();
+      const esFechaEspecial = hoy.getDate() === 23 && 
+                              hoy.getMonth() === 5 && // Junio es el mes 5 (0-indexado)
+                              hoy.getFullYear() === 2025;
+      
+      const calendarIframe = document.getElementById('calendar-iframe');
+      const videoContainer = document.getElementById('video-container');
+      
+      if (esFechaEspecial) {
+        // Si es la fecha especial, ocultar calendario y mostrar video
+        calendarIframe.style.display = 'none';
+        videoContainer.style.display = 'block';
+        // Asegurarse de que el video se reproduce
+        const video = videoContainer.querySelector('video');
+        if (video) {
+          video.play();
+        }
+      } else {
+        // Si no es la fecha especial, mostrar calendario y ocultar video
+        calendarIframe.style.display = 'block';
+        videoContainer.style.display = 'none';
+      }
+    }
+
     // Función para cargar el archivo JSON y actualizar el contenido
     async function cargarDatos(forzarRecarga = false) {
       try {
+        // Verificar si es la fecha especial para mostrar el video
+        verificarFechaEspecial();
+        
         // Añadir un parámetro de tiempo para evitar la caché del navegador si se fuerza la recarga
         const cacheBuster = forzarRecarga ? `?t=${new Date().getTime()}` : '';
         const response = await fetch('datos.json' + cacheBuster);
@@ -159,41 +210,25 @@
           cumpleañosDeHoy.forEach(item => {
             const li = document.createElement('li');
             
- 
-
-// Si es viernes, mostrar el día del cumpleaños
-if (hoy.getDay() === 5) {
-  const [, mes, dia] = item.fecha.split('-');
-  const fechaCumple = new Date(añoActual, mes - 1, dia);
-  
-  // Determinar si es cumpleaños de hoy, sábado o domingo
-  let diaCumple;
-  if (coincideCumpleaños(item, hoy)) {
-    diaCumple = 'hoy';
-  } else if (fechaCumple.getDay() === 6) {
-    diaCumple = 'sábado';
-  } else if (fechaCumple.getDay() === 0) {
-    diaCumple = 'domingo';
-  }
-  
-  li.textContent = `${item.nombre} (Cumpleaños ${diaCumple})`;
-} else {
-  li.textContent = item.nombre;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+            // Si es viernes, mostrar el día del cumpleaños
+            if (hoy.getDay() === 5) {
+              const [, mes, dia] = item.fecha.split('-');
+              const fechaCumple = new Date(añoActual, mes - 1, dia);
+              
+              // Determinar si es cumpleaños de hoy, sábado o domingo
+              let diaCumple;
+              if (coincideCumpleaños(item, hoy)) {
+                diaCumple = 'hoy';
+              } else if (fechaCumple.getDay() === 6) {
+                diaCumple = 'sábado';
+              } else if (fechaCumple.getDay() === 0) {
+                diaCumple = 'domingo';
+              }
+              
+              li.textContent = `${item.nombre} (Cumpleaños ${diaCumple})`;
+            } else {
+              li.textContent = item.nombre;
+            }
             
             cumpleañosLista.appendChild(li);
           });
@@ -238,6 +273,9 @@ if (hoy.getDay() === 5) {
       const fecha = ahora.toLocaleDateString('es-ES', opciones);
       const hora = ahora.toLocaleTimeString('es-ES');
       document.getElementById('fecha-hora').innerHTML = `${fecha} - ${hora}`;
+      
+      // Verificar si es la fecha especial cada vez que se actualiza la hora
+      verificarFechaEspecial();
     }
 
     // Verificar si cambió el día desde la última carga
@@ -276,6 +314,7 @@ if (hoy.getDay() === 5) {
     window.onload = function() {
       cargarDatos(); // Carga inicial de datos
       actualizarFechaHora(); // Actualiza la fecha y hora inicial
+      verificarFechaEspecial(); // Verificar si hay que mostrar el video
       
       // Programar actualizaciones automáticas
       setInterval(actualizarFechaHora, 1000); // Actualiza la hora cada segundo
