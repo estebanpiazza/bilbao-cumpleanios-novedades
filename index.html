@@ -6,37 +6,36 @@
   <title>Cumpleaños, Novedades y Reflexión</title>
   <link rel="stylesheet" href="style.css">
   <style>
-    /* Estilo para aumentar el tamaño de letra del calendario */
-    .calendar-container {
-      position: relative;
-      width: 100%;
-      overflow: hidden;
-      padding-bottom: 10px;
-    }
-    
-    .calendar-container iframe {
-      transform: scale(1.3);
-      transform-origin: top left;
-      width: 77%; /* Compensar el escalado */
-      height: 450px;
-    }
-    
-    /* Esta regla intenta modificar el contenido del iframe, pero solo funcionará si no hay restricciones de seguridad */
-    iframe {
-      font-size: 120% !important;
-    }
-    
     /* Estilo para el video cuando se muestra */
     .video-container {
       width: 100%;
       height: 450px;
       display: none;
     }
-    
+
     .video-container video {
       width: 100%;
       height: 100%;
       object-fit: contain;
+    }
+    
+    /* Estilos para la lista de eventos */
+    #eventos-lista {
+      list-style-type: none;
+      padding: 0;
+    }
+    
+    #eventos-lista li {
+      background-color: #f8f9fa;
+      border-left: 4px solid #007bff;
+      margin-bottom: 10px;
+      padding: 12px;
+      border-radius: 4px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    
+    #eventos-lista li:hover {
+      background-color: #e9ecef;
     }
   </style>
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -75,27 +74,20 @@
       </ul>
     </div>
 
-    <!-- Columna de Novedades -->
+    <!-- Columna de Eventos -->
     <div class="column">
-      <h2>Novedades</h2>
+      <h2>Eventos</h2>
       
-      <div class="calendar-container">
-        <iframe 
-          id="calendar-iframe"
-          src="https://calendar.google.com/calendar/embed?src=c_01379560f284f73b8def9762474989c43059afaab45ecead52311365abd8aa0d@group.calendar.google.com&ctz=America/Argentina/Buenos_Aires&mode=AGENDA&showTitle=0&showNav=0&showPrint=0&showTabs=0&showCalendars=0&showTz=0&bgcolor=%23ffffff&color=%231e5c1e"
-          frameborder="0" scrolling="no">
-        </iframe>
-        
-        <!-- Contenedor para el video especial -->
-        <div id="video-container" class="video-container">
-          <video autoplay loop muted>
-            <source src="./video.mp4" type="video/mp4">
-            Tu navegador no soporta videos.
-          </video>
-        </div>
+      <!-- Contenedor para el video especial -->
+      <div id="video-container" class="video-container">
+        <video autoplay loop muted>
+          <source src="./video.mp4" type="video/mp4">
+          Tu navegador no soporta videos.
+        </video>
       </div>
 
-      <ul style="display: none;" id="novedades-lista">
+      <!-- Lista de eventos del día -->
+      <ul id="eventos-lista">
         <!-- Aquí se mostrarán las novedades -->
       </ul>
     </div>
@@ -109,12 +101,12 @@
                               hoy.getMonth() === 5 && // Junio es el mes 5 (0-indexado)
                               hoy.getFullYear() === 2025;
       
-      const calendarIframe = document.getElementById('calendar-iframe');
       const videoContainer = document.getElementById('video-container');
+      const eventosLista = document.getElementById('eventos-lista');
       
       if (esFechaEspecial) {
-        // Si es la fecha especial, ocultar calendario y mostrar video
-        calendarIframe.style.display = 'none';
+        // Si es la fecha especial, ocultar eventos y mostrar video
+        eventosLista.style.display = 'none';
         videoContainer.style.display = 'block';
         // Asegurarse de que el video se reproduce
         const video = videoContainer.querySelector('video');
@@ -122,9 +114,80 @@
           video.play();
         }
       } else {
-        // Si no es la fecha especial, mostrar calendario y ocultar video
-        calendarIframe.style.display = 'block';
+        // Si no es la fecha especial, mostrar eventos y ocultar video
+        eventosLista.style.display = 'block';
         videoContainer.style.display = 'none';
+      }
+    }
+
+    // Función para cargar eventos desde Google Sheets
+    async function cargarEventosGoogleSheets() {
+      try {
+        // URL de la hoja de cálculo en formato CSV
+        const sheetUrl = 'https://docs.google.com/spreadsheets/d/1_O6rKb1-g_hxGD-9bP1h2-RLbIZjWjfUYa6h3nBHKPg/export?format=csv&gid=387666732';
+        
+        const response = await fetch(sheetUrl);
+        if (!response.ok) {
+          throw new Error(`Error HTTP: ${response.status}`);
+        }
+        
+        const csvText = await response.text();
+        const lines = csvText.split('\n');
+        
+        // Omitir la primera línea (encabezados)
+        const dataLines = lines.slice(1);
+        
+        const eventos = [];
+        const hoy = new Date();
+        const fechaHoy = `${hoy.getDate()}/${hoy.getMonth() + 1}/${hoy.getFullYear()}`;
+        
+        dataLines.forEach(line => {
+          if (line.trim() === '') return; // Saltar líneas vacías
+          
+          // Parsear CSV (considerando comas dentro de comillas)
+          const cols = [];
+          let current = '';
+          let inQuotes = false;
+          
+          for (let i = 0; i < line.length; i++) {
+            const char = line[i];
+            if (char === '"') {
+              inQuotes = !inQuotes;
+            } else if (char === ',' && !inQuotes) {
+              cols.push(current);
+              current = '';
+            } else {
+              current += char;
+            }
+          }
+          cols.push(current); // Agregar la última columna
+          
+          if (cols.length >= 12) {
+            const evento = {
+              nombre: cols[2]?.replace(/"/g, '').trim() || '',
+              fechaInicio: cols[3]?.replace(/"/g, '').trim() || '',
+              horaInicio: cols[4]?.replace(/"/g, '').trim() || '',
+              fechaFin: cols[5]?.replace(/"/g, '').trim() || '',
+              horaFin: cols[6]?.replace(/"/g, '').trim() || '',
+              nivel: cols[7]?.replace(/"/g, '').trim() || '',
+              curso: cols[8]?.replace(/"/g, '').trim() || '',
+              lugar: cols[9]?.replace(/"/g, '').trim() || '',
+              conFamilia: cols[10]?.replace(/"/g, '').trim() || '',
+              urlEvento: cols[11]?.replace(/"/g, '').trim() || ''
+            };
+            
+            // Verificar si el evento es para hoy
+            if (evento.fechaInicio === fechaHoy) {
+              eventos.push(evento);
+            }
+          }
+        });
+        
+        return eventos;
+        
+      } catch (error) {
+        console.error('Error cargando eventos desde Google Sheets:', error);
+        return [];
       }
     }
 
@@ -187,22 +250,20 @@
           cumpleañosDeHoy = [...cumpleañosDeHoy, ...cumpleañosSabadoDomingo];
         }
 
-        // Filtrar las novedades que coinciden exactamente con la fecha de hoy
-        const novedadesDeHoy = datos.novedades.filter(novedad => {
-          return novedad.fecha === fechaHoyFormato;
-        });
-
         // Filtrar la pregunta de reflexión que coincide con la fecha de hoy
         const reflexionDeHoy = datos.preguntas_reflexion.find(pregunta => {
           return pregunta.fecha === fechaHoyFormato;
         });
 
+        // Cargar eventos desde Google Sheets
+        const eventosDeHoy = await cargarEventosGoogleSheets();
+
         // Limpiar las listas previas
         const cumpleañosLista = document.getElementById('cumpleaños-lista');
-        const novedadesLista = document.getElementById('novedades-lista');
+        const eventosLista = document.getElementById('eventos-lista');
         const reflexionDiv = document.getElementById('reflexion');
         cumpleañosLista.innerHTML = '';
-        novedadesLista.innerHTML = '';
+        eventosLista.innerHTML = '';
         reflexionDiv.innerHTML = '';
 
         // Mostrar los cumpleaños
@@ -236,15 +297,23 @@
           cumpleañosLista.innerHTML = '<li>No hay cumpleaños hoy</li>';
         }
 
-        // Mostrar las novedades del día
-        if (novedadesDeHoy.length > 0) {
-          novedadesDeHoy.forEach(item => {
+        // Mostrar los eventos del día
+        if (eventosDeHoy.length > 0) {
+          eventosDeHoy.forEach(evento => {
             const li = document.createElement('li');
-            li.textContent = `${item.nombre} (${item.nivel})`;
-            novedadesLista.appendChild(li);
+            li.innerHTML = `
+              <strong>${evento.nombre}</strong><br>
+              <span style="font-size: 0.9em; color: #666;">
+                ${evento.horaInicio} - ${evento.horaFin}<br>
+                ${evento.nivel} ${evento.curso ? '- ' + evento.curso : ''}<br>
+                ${evento.lugar ? 'Lugar: ' + evento.lugar : ''}
+                ${evento.conFamilia === 'Sí' ? ' (Con familia)' : ''}
+              </span>
+            `;
+            eventosLista.appendChild(li);
           });
         } else {
-          novedadesLista.innerHTML = '<li>No hay novedades hoy</li>';
+          eventosLista.innerHTML = '<li>No hay eventos programados para hoy</li>';
         }
 
         // Mostrar la pregunta de reflexión del día
@@ -257,7 +326,7 @@
         console.log('Datos cargados correctamente:', {
           fecha: fechaHoyFormato,
           cumpleaños: cumpleañosDeHoy.length,
-          novedades: novedadesDeHoy.length,
+          eventos: eventosDeHoy.length,
           reflexion: reflexionDeHoy ? 'Disponible' : 'No disponible'
         });
         
