@@ -312,7 +312,34 @@
             `;
             eventosLista.appendChild(li);
           });
-        } else {
+        }
+
+        // Mostrar las novedades del día (si existen)
+        if (datos.novedades && datos.novedades.length > 0) {
+          const novedadesDelDia = datos.novedades.filter(novedad => novedad.fecha === fechaHoyFormato);
+          
+          if (novedadesDelDia.length > 0) {
+            novedadesDelDia.forEach(novedad => {
+              const li = document.createElement('li');
+              
+              if (novedad.imagen) {
+                // Si hay una imagen, mostrarla sin título
+                li.innerHTML = `
+                  <img src="./${novedad.imagen}" alt="${novedad.nombre}" style="width: 100%; max-width: 400px; margin-top: 10px; border-radius: 4px;">
+                `;
+              } else {
+                // Si no hay imagen, mostrar solo el nombre
+                li.textContent = novedad.nombre;
+              }
+              
+              eventosLista.appendChild(li);
+            });
+          } else if (eventosDeHoy.length === 0) {
+            // Solo mostrar "No hay eventos" si no hay ni eventos de Google Sheets ni novedades
+            eventosLista.innerHTML = '<li>No hay eventos programados para hoy</li>';
+          }
+        } else if (eventosDeHoy.length === 0) {
+          // Solo mostrar "No hay eventos" si no hay eventos de Google Sheets
           eventosLista.innerHTML = '<li>No hay eventos programados para hoy</li>';
         }
 
